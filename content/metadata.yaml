@@ -8,8 +8,7 @@ lang: en-US
 thumbnail: content/images/thumbnail.png
 
 authors1:
-  -
-    github: adafede
+  - github: adafede
     name: Adriano Rutz
     initials: AR
     orcid: 0000-0003-0443-9902
@@ -18,7 +17,7 @@ authors1:
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
       - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
-    funders: 
+    funders:
       - CRSII5_189921
     # correspondence: true
     roles:
@@ -42,8 +41,7 @@ authors1:
       - Additional – Wikidata: true
 
 authors2:
-  -
-    github: adafede
+  - github: adafede
     name: Adriano Rutz
     initials: AR
     orcid: 0000-0003-0443-9902
@@ -52,7 +50,7 @@ authors2:
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
       - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
-    funders: 
+    funders:
       - CRSII5_189921
     # correspondence: true
     roles:
@@ -74,8 +72,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
-  -
-    github: mSorok
+  - github: mSorok
     name: Maria Sorokina
     initials: MS
     orcid: 0000-0001-9359-7149
@@ -83,7 +80,7 @@ authors2:
     email: maria.sorokina@uni-jena.de
     affiliations:
       - Institute for Inorganic and Analytical Chemistry, Friedrich-Schiller-University Jena, Lessingstr. 8, 07732 Jena, Germany
-    funders: 
+    funders:
       - CRC1127
     roles:
       - Conceptualization: false
@@ -104,8 +101,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: false
-  -
-    github: galgonek
+  - github: galgonek
     name: Jakub Galgonek
     initials: JGa
     orcid: 0000-0002-7038-544X
@@ -113,7 +109,7 @@ authors2:
     email: jakub.galgonek@uochb.cas.cz
     affiliations:
       - Institute of Organic Chemistry and Biochemistry of the CAS, Flemingovo náměstí 2, 166 10, Prague 6, Czech Republic
-    funders: 
+    funders:
       - LM2018131
     roles:
       - Conceptualization: false
@@ -134,8 +130,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: true
       - Additional – Wikidata: false
-  -
-    github: Daniel-Mietchen
+  - github: Daniel-Mietchen
     name: Daniel Mietchen
     initials: DM
     orcid: 0000-0001-9488-1870
@@ -143,7 +138,7 @@ authors2:
     email: dm7gn@virginia.edu
     affiliations:
       - School of Data Science, University of Virginia, Dell 1 Building, Charlottesville, Virginia 22904, United States
-    funders: 
+    funders:
       - G-2019-11458
     roles:
       - Conceptualization: false
@@ -164,8 +159,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
-  -
-    github: egonw
+  - github: egonw
     name: Egon Willighagen
     initials: EW
     orcid: 0000-0001-7542-0286
@@ -173,7 +167,7 @@ authors2:
     email: egon.willighagen@gmail.com
     affiliations:
       - Dept of Bioinformatics-BiGCaT, NUTRIM, Maastricht University, Universiteitssingel 50, NL-6229 ER, Maastricht, The Netherlands
-    funders: 
+    funders:
       - G-2019-11458
     roles:
       - Conceptualization: false
@@ -194,8 +188,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
-  -
-    github: ArnaudGaudry
+  - github: ArnaudGaudry
     name: Arnaud Gaudry
     initials: AG
     orcid: 0000-0002-3648-7362
@@ -204,7 +197,7 @@ authors2:
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
       - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
-    funders: 
+    funders:
       - CRSII5_189921
     roles:
       - Conceptualization: false
@@ -225,8 +218,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: false
-  -
-    # github: 
+  - # github:
     name: James G. Graham
     initials: JGG
     orcid: 0000-0002-7114-8921
@@ -235,8 +227,8 @@ authors2:
     affiliations:
       - Center for Natural Product Technologies and WHO Collaborating Centre for Traditional Medicine (WHO CC/TRM), Pharmacognosy Institute; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
       - Department of Pharmaceutical Sciences; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
-    funders: 
-      - U41 AT008706 
+    funders:
+      - U41 AT008706
       - U41 AT000155
     roles:
       - Conceptualization: false
@@ -257,15 +249,14 @@ authors2:
       - Additional – NAPRALERT: true
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: false
-  -
-    github: rwst
+  - github: rwst
     name: Ralf Stephan
     initials: RS
     orcid: 0000-0002-4650-631X
     # twitter: 
     email: gtrwst9@gmail.com
     affiliations:
-      -  Ontario Institute for Cancer Research (OICR), 661 University Ave Suite 510, Toronto, Canada
+      - Ontario Institute for Cancer Research (OICR), 661 University Ave Suite 510, Toronto, Canada
     # funders: 
     roles:
       - Conceptualization: false
@@ -286,15 +277,14 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
-  -
-    github: rdmpage
+  - github: rdmpage
     name: Roderic Page
     initials: RP
     orcid: 0000-0002-7101-9767
     twitter: rdmpage
     email: roderic.page@glasgow.ac.uk
     affiliations:
-      -  IBAHCM, MVLS, University of Glasgow, Glasgow, United Kingdom
+      - IBAHCM, MVLS, University of Glasgow, Glasgow, United Kingdom
     # funders: 
     roles:
       - Conceptualization: false
@@ -315,8 +305,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
-  -
-    # github: 
+  - # github:
     name: Jiří Vondrášek
     initials: JV
     orcid: 0000-0002-6066-973X
@@ -324,7 +313,7 @@ authors2:
     email: jiri.vondrasek@uochb.cas.cz
     affiliations:
       - Institute of Organic Chemistry and Biochemistry of the CAS, Flemingovo náměstí 2, 166 10, Prague 6, Czech Republic
-    funders: 
+    funders:
       - LM2018131
     roles:
       - Conceptualization: false
@@ -345,8 +334,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: true
       - Additional – Wikidata: false
-  -
-    github: steinbeck
+  - github: steinbeck
     name: Christoph Steinbeck
     initials: CS
     orcid: 0000-0001-6966-0814
@@ -354,7 +342,7 @@ authors2:
     email: christoph.steinbeck@uni-jena.de
     affiliations:
       - Institute for Inorganic and Analytical Chemistry, Friedrich-Schiller-University Jena, Lessingstr. 8, 07732 Jena, Germany
-    funders: 
+    funders:
       - CRC1127
     roles:
       - Conceptualization: false
@@ -375,8 +363,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: false
-  -
-    # github: 
+  - # github:
     name: Guido F. Pauli
     initials: GFP
     orcid: 0000-0003-1022-4326
@@ -385,8 +372,8 @@ authors2:
     affiliations:
       - Center for Natural Product Technologies and WHO Collaborating Centre for Traditional Medicine (WHO CC/TRM), Pharmacognosy Institute; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
       - Department of Pharmaceutical Sciences; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
-    funders: 
-      - U41 AT008706 
+    funders:
+      - U41 AT008706
       - U41 AT000155
     roles:
       - Conceptualization: false
@@ -407,8 +394,7 @@ authors2:
       - Additional – NAPRALERT: true
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: false
-  -
-    # github: 
+  - # github:
     name: Jean-Luc Wolfender
     initials: JLW
     orcid: 0000-0002-0125-952X
@@ -417,7 +403,7 @@ authors2:
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
       - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
-    funders: 
+    funders:
       - CRSII5_189921
     correspondence: false
     roles:
@@ -439,8 +425,7 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: false
-  -
-    github: bjonnh
+  - github: bjonnh
     name: Jonathan Bisson
     initials: JB
     orcid: 0000-0003-1640-9989
@@ -449,8 +434,8 @@ authors2:
     affiliations:
       - Center for Natural Product Technologies and WHO Collaborating Centre for Traditional Medicine (WHO CC/TRM), Pharmacognosy Institute; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
       - Department of Pharmaceutical Sciences; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
-    funders: 
-      - U41 AT008706 
+    funders:
+      - U41 AT008706
       - U41 AT000155
     correspondence: true
     roles:
@@ -472,18 +457,17 @@ authors2:
       - Additional – NAPRALERT: true
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
-  -
-    github: oolonek
+  - github: oolonek
     name: Pierre-Marie Allard
     initials: PMA
     orcid: 0000-0003-3389-2191
-    twitter: NatprodCbn 
+    twitter: NatprodCbn
     email: pierre-marie.allard@unifr.ch
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
       - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
       - Department of Biology, University of Fribourg, Chemin du Musée 10, 1700 Fribourg, Switzerland
-    funders: 
+    funders:
       - CRSII5_189921
     correspondence: true
     roles:
