@@ -7,7 +7,7 @@ lang: en-US
 
 thumbnail: content/images/thumbnail.png
 
-authors1:
+authorsLotus:
   - github: adafede
     name: Adriano Rutz
     initials: AR
@@ -19,40 +19,6 @@ authors1:
       - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
     funders:
       - CRSII5_189921
-    # correspondence: true
-    roles:
-      - Conceptualization: true
-      - Data curation: true
-      - Formal analysis: true
-      - Funding acquisition: true
-      - Investigation: true
-      - Methodology: true
-      - Project administration: true
-      - Resources: false
-      - Software: true
-      - Supervision: true
-      - Validation: true
-      - Visualization: true
-      - Writing – original draft: true
-      - Writing – review & editing: true
-      - Additional – LNPN website: false
-      - Additional – NAPRALERT: false
-      - Additional – Sachem, IDSM: false
-      - Additional – Wikidata: true
-
-authors2:
-  - github: adafede
-    name: Adriano Rutz
-    initials: AR
-    orcid: 0000-0003-0443-9902
-    twitter: adafede
-    email: adriano.rutz@unige.ch
-    affiliations:
-      - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
-      - Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
-    funders:
-      - CRSII5_189921
-    # correspondence: true
     roles:
       - Conceptualization: true
       - Data curation: true
@@ -192,7 +158,6 @@ authors2:
     name: Arnaud Gaudry
     initials: AG
     orcid: 0000-0002-3648-7362
-    # twitter: 
     email: arnaud.gaudry@unige.ch
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
@@ -222,7 +187,6 @@ authors2:
     name: James G. Graham
     initials: JGG
     orcid: 0000-0002-7114-8921
-    # twitter: 
     email: ucayali@uic.edu
     affiliations:
       - Center for Natural Product Technologies and WHO Collaborating Centre for Traditional Medicine (WHO CC/TRM), Pharmacognosy Institute; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
@@ -253,11 +217,9 @@ authors2:
     name: Ralf Stephan
     initials: RS
     orcid: 0000-0002-4650-631X
-    # twitter: 
     email: gtrwst9@gmail.com
     affiliations:
       - Ontario Institute for Cancer Research (OICR), 661 University Ave Suite 510, Toronto, Canada
-    # funders: 
     roles:
       - Conceptualization: false
       - Data curation: false
@@ -285,7 +247,6 @@ authors2:
     email: roderic.page@glasgow.ac.uk
     affiliations:
       - IBAHCM, MVLS, University of Glasgow, Glasgow, United Kingdom
-    # funders: 
     roles:
       - Conceptualization: false
       - Data curation: false
@@ -309,7 +270,6 @@ authors2:
     name: Jiří Vondrášek
     initials: JV
     orcid: 0000-0002-6066-973X
-    # twitter: 
     email: jiri.vondrasek@uochb.cas.cz
     affiliations:
       - Institute of Organic Chemistry and Biochemistry of the CAS, Flemingovo náměstí 2, 166 10, Prague 6, Czech Republic
@@ -367,7 +327,6 @@ authors2:
     name: Guido F. Pauli
     initials: GFP
     orcid: 0000-0003-1022-4326
-    # twitter: 
     email: gfp@uic.edu
     affiliations:
       - Center for Natural Product Technologies and WHO Collaborating Centre for Traditional Medicine (WHO CC/TRM), Pharmacognosy Institute; College of Pharmacy, University of Illinois at Chicago, 833 South Wood Street, Chicago, Illinois 60612, United States
@@ -398,7 +357,6 @@ authors2:
     name: Jean-Luc Wolfender
     initials: JLW
     orcid: 0000-0002-0125-952X
-    # twitter: 
     email: Jean-Luc.Wolfender@unige.ch
     affiliations:
       - School of Pharmaceutical Sciences, University of Geneva, CMU - Rue Michel-Servet 1, CH-1211 Geneva 4, Switzerland
@@ -489,3 +447,245 @@ authors2:
       - Additional – NAPRALERT: false
       - Additional – Sachem, IDSM: false
       - Additional – Wikidata: true
+
+authorsTima:
+  - github: adafede
+    name: Adriano Rutz
+    initials: AR
+    orcid: 0000-0003-0443-9902
+    twitter: adafede
+    email: adriano.rutz@unige.ch
+    affiliations:
+      - Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Centre Médical Universitaire (CMU), Geneva, Switzerland
+    roles:
+      - Conceptualization: true
+      - Data curation: true
+      - Formal analysis: true
+      - Funding acquisition: false
+      - Investigation: true
+      - Methodology: true
+      - Project administration: true
+      - Resources: false
+      - Software: true
+      - Supervision: false
+      - Validation: true
+      - Visualization: true
+      - Writing – original draft: true
+      - Writing – review & editing: true
+  - github: 
+    name: Miwa Dounoue-Kubo
+    initials: MDK
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Centre Médical Universitaire (CMU), Geneva, Switzerland
+    roles:
+      - Conceptualization: true
+      - Data curation: true
+      - Formal analysis: true
+      - Funding acquisition: false
+      - Investigation: true
+      - Methodology: true
+      - Project administration: false
+      - Resources: false
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: 
+    name: Simon Ollivier
+    initials: SO
+    orcid: 0000-0002-7671-1736
+    twitter:
+    email:
+    affiliations:
+      - Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Centre Médical Universitaire (CMU), Geneva, Switzerland
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: false
+      - Funding acquisition: false
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: false
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: bjonnh
+    name: Jonathan Bisson
+    initials: JB
+    orcid: 0000-0003-1640-9989
+    twitter: Bjonnh #CENAPT
+    email: research@bjonnh.net
+    affiliations:
+      - Center for Natural Product Technologies, Program for Collaborative Research in the Pharmaceutical Sciences (PCRPS), University of Illinois at Chicago, Chicago, IL, United States
+      - Department of Pharmaceutical Sciences, College of Pharmacy, University of Illinois at Chicago, Chicago, IL, United States
+    funders:
+      - U41 AT008706
+    correspondence: false
+    roles:
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: false
+      - Funding acquisition: false
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: false
+      - Software: true
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: 
+    name: Mohsen Bagheri
+    initials: MB
+    orcid: 0000-0003-0461-7051
+    twitter:
+    email:
+    affiliations:
+      - Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Centre Médical Universitaire (CMU), Geneva, Switzerland
+      - Department of Phytochemistry, Medicinal Plants and Drugs Research Institute, Shahid Beheshti University, G.C., Evin, Tehran, Iran
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: true
+      - Funding acquisition: false
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: false
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: 
+    name: Tongchai Saesong
+    initials: TS
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - Department of Pharmaceutical Chemistry and Pharmacognosy, Faculty of Pharmaceutical Sciences and Center of Excellence for Innovation in Chemistry, Naresuan University, Phitsanulok, Thailand
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: false
+      - Funding acquisition: false
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: false
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: 
+    name: Samad Nejad Ebrahimi
+    initials: SNE
+    orcid: 0000-0003-2167-8032
+    twitter:
+    email:
+    affiliations:
+      - Department of Phytochemistry, Medicinal Plants and Drugs Research Institute, Shahid Beheshti University, G.C., Evin, Tehran, Iran
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: false
+      - Funding acquisition: false
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: true
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: 
+    name: Kornkanok Ingkaninan
+    initials: KI
+    orcid: 0000-0002-4415-8489
+    twitter:
+    email:
+    affiliations:
+      - Department of Pharmaceutical Chemistry and Pharmacognosy, Faculty of Pharmaceutical Sciences and Center of Excellence for Innovation in Chemistry, Naresuan University, Phitsanulok, Thailand
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: false
+      - Funding acquisition: false
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: true
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - # github:
+    name: Jean-Luc Wolfender
+    initials: JLW
+    orcid: 0000-0002-0125-952X
+    email: Jean-Luc.Wolfender@unige.ch
+    affiliations:
+      - Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Centre Médical Universitaire (CMU), Geneva, Switzerland
+    funders:
+      - SNF R’Equip grant 316030_164095
+    correspondence: true
+    roles:
+      - Conceptualization: false
+      - Data curation: false
+      - Formal analysis: false
+      - Funding acquisition: true
+      - Investigation: false
+      - Methodology: false
+      - Project administration: false
+      - Resources: true
+      - Software: false
+      - Supervision: false
+      - Validation: false
+      - Visualization: false
+      - Writing – original draft: false
+      - Writing – review & editing: true
+  - github: oolonek
+    name: Pierre-Marie Allard
+    initials: PMA
+    orcid: 0000-0003-3389-2191
+    twitter: NatprodCbn
+    email: pierre-marie.allard@unifr.ch
+    affiliations:
+      - Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Centre Médical Universitaire (CMU), Geneva, Switzerland
+    correspondence: true
+    roles:
+      - Conceptualization: true
+      - Data curation: true
+      - Formal analysis: true
+      - Funding acquisition: true
+      - Investigation: true
+      - Methodology: true
+      - Project administration: true
+      - Resources: true
+      - Software: true
+      - Supervision: true
+      - Validation: true
+      - Visualization: false
+      - Writing – original draft: true
+      - Writing – review & editing: true
+      
