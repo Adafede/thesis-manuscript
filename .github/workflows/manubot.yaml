@@ -54,7 +54,7 @@ jobs:
         shell: bash --login {0}
         run: bash build/build.sh
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: manuscript-${{ github.run_id }}-${{ env.TRIGGERING_SHA_7 }}
           path: output
