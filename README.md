@@ -5,7 +5,6 @@
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://adafede.github.io/thesis-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://adafede.github.io/thesis-manuscript/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/adafede/thesis-manuscript/workflows/Manubot/badge.svg)](https://github.com/adafede/thesis-manuscript/actions)
-[![Travis Build Status](https://travis-ci.com/adafede/thesis-manuscript.svg?branch=main)](https://travis-ci.com/adafede/thesis-manuscript)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
