@@ -271,7 +271,7 @@ guayusa
 Gunatilaka
 Haddon
 Hegnauer
-Hegnauer’s
+Hegnauer's
 hemi
 heptadecanoic
 Herbarium
@@ -551,7 +551,7 @@ RSQLite
 Rutz
 rvest
 rwst
-R’Equip
+R'Equip
 s
 Saesong
 Samad
@@ -700,7 +700,7 @@ wdpage
 webchem
 Wijeratne
 wikidata
-Wikidata’s
+Wikidata's
 Wikimedia
 WikiPathways
 WikiProject
