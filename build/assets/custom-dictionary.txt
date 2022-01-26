@@ -80,7 +80,7 @@ Bromus
 Bruker
 Buchner
 Candolle
-Candolle’s
+Candolle's
 carotenoiddb
 CAS
 CCBY
