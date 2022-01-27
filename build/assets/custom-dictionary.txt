@@ -25,10 +25,13 @@ analytes
 Angelshark
 Anil
 Animalia
+anisophylla
 Annonaceae
 Anshu
 antibase
+Antifungal
 antimarin
+Antiseizure
 Apteryx
 Arabidopsis
 Archaeplastida
@@ -71,6 +74,7 @@ BioSpin
 biosynthesize
 biosynthetic
 biosynthetically
+biphyscion
 BirdLife
 Bisson
 bjonnh
@@ -90,6 +94,7 @@ CDK
 Cedrus
 centric
 centroid
+Ceratocapnos
 cernua
 cevadine
 CFM
@@ -108,6 +113,7 @@ Chemotaxonomie
 chemotaxonomy
 Cheng
 cherrieri
+chirayita
 chiroptical
 chorddiag
 Christoph
@@ -117,18 +123,24 @@ Chun
 clade
 ClassyFire
 ClassyfireR
+claviculata
 clustersummary
 cmcrameri
 CMU
 CN
+coccodes
 codebase
+Colletotrichum
 combinatorial
 complementarity
 Constit
+Cordia
 corniculatum
 coroutines
+Cortinarius
 Counterfeiction
 counterions
+crassifolia
 Crataegus
 CRC
 CrossRef
@@ -141,6 +153,7 @@ curation
 cyanometdb
 Cyathocaline
 Cyathocalyx
+cyclophyllus
 Cytoscape
 Damerau
 daphnane
@@ -193,6 +206,7 @@ equilibration
 erysodine
 ESI
 et
+ethanolic
 ethnobotany
 ethnomedicine
 Eukaryota
@@ -268,6 +282,7 @@ Gunatilaka
 Haddon
 Hegnauer
 Hegnauer's
+Helleborus
 hemi
 heptadecanoic
 Herbarium
@@ -285,6 +300,7 @@ iboga
 ibogaine
 idf
 IDSM
+IK
 Ilex
 iNaturalist
 InChI
@@ -305,6 +321,8 @@ ipynb
 IRMNG
 isbn
 Isdb
+Isocorydine
+Isocorypalmine
 isocratic
 Isol
 ISPSO
@@ -312,6 +330,7 @@ ITIS
 IUCN
 IUPAC
 Jaccard
+JADHMUPTWPBTMT
 Jakub
 JB
 Jena
@@ -329,6 +348,7 @@ JUnit
 Jupyter
 Justina
 Kang
+KDFKJOFJHSVROC
 KEMQGTRYUADPNZ
 Kikuchi
 konnector
@@ -356,6 +376,7 @@ limonoids
 liriodenine
 LM
 LNPN
+Lockdown
 logP
 longifolia
 lotusProcessor
@@ -366,6 +387,7 @@ Maastricht
 macrolides
 magicTree
 Magnoliopsida
+Malpighiaceae
 Mangifera
 manubot
 Marnix
@@ -404,6 +426,7 @@ Mozzherin
 MRFA
 MSConvert
 mSorok
+multiglandulosa
 MUMCCPUVOAUBAN
 MVLS
 MZMine
@@ -421,6 +444,7 @@ NCE
 Nejad
 Nelumbo
 Ngozi
+Niedenzuella
 NL
 NMR
 Nonmarine
@@ -438,6 +462,7 @@ nucifera
 NUTRIM
 Nwodo
 NXZXPYYKGQCDRO
+odorus
 ODXINVOINFDDDD
 OENHQHLEOONYIE
 OICR
@@ -449,9 +474,11 @@ orcid
 orthoester
 OSF
 OTL
+OUTYMWDDJORZOH
 overrepresented
 OVSQVDMCBVZWGM
 oxyacantha
+oxylobum
 pamdb
 Papaveraceae
 parallelizable
@@ -468,10 +495,14 @@ PhenolExplorer
 phenylalanine
 Phitsanulok
 PHO
+photoactive
+photosensitizer
+Photosensitizers
 Phyllocladaceae
 phylogenetic
 physico
 physicochemical
+Phytochemical
 Phytochemistry
 phytohub
 Pinnaka
@@ -502,6 +533,7 @@ pulsaquinone
 Pulsatilla
 py
 Pyramus
+QELDJEKNFOQJOY
 QID
 quassinoid
 quassinoids
@@ -518,6 +550,7 @@ Reionization
 rentrez
 repartition
 reproducibility
+Repurposing
 reranking
 rescaled
 resubmission
@@ -543,10 +576,14 @@ Saesong
 Samad
 sancdb
 sanitization
+SAPID
+Sarcocapnos
 Scholia
 scipy
 SCR
 SDF
+Secocularidine
+Secosarcocapnidine
 ser
 Servet
 SFB
@@ -564,6 +601,7 @@ sitosterol
 SmilesDrawer
 SNE
 SNF
+Solanum
 solubilized
 Sonboli
 sorok
@@ -594,10 +632,13 @@ subnames
 subprocess
 subproject
 subscripting
+subsp
 subtribe
 SuccuBot
+Sunitinib
 svg
 svgs
+Swertia
 swmd
 Tabernanthe
 Tastan
@@ -620,6 +661,7 @@ THOMS
 tidyverse
 Tiejun
 Tilmann
+TIMA
 TIS
 tmap
 tmdb
@@ -645,6 +687,7 @@ TRM
 Tropicos
 Tsugawa
 tsv
+tuberosum
 uBio
 UHFFFAOYSA
 UHPLC
@@ -658,6 +701,7 @@ Universitaire
 Universiteitssingel
 Univocity
 UNPD
+untargeted
 UPLC
 upsert
 upserting
@@ -693,6 +737,7 @@ WikiProjects
 Wikispecies
 Willighagen
 wn
+WNBUTZHPPULVTP
 Wolfender
 Xcalibur
 Xiao
