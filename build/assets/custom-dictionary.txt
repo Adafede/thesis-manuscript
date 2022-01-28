@@ -69,6 +69,7 @@ Bioinformatics
 BioLib
 biophytmol
 bioRxiv
+biosource
 biosources
 BioSpin
 biosynthesize
@@ -288,12 +289,14 @@ heptadecanoic
 Herbarium
 HESI
 hexane
+HMBC
 HMPDRI
 hoc
 Horornis
 hotspots
 HPLC
 HRMS
+HSQC
 Hu
 IBAHCM
 iboga
@@ -425,6 +428,7 @@ Montclair
 Mozzherin
 MRFA
 MSConvert
+MSMS
 mSorok
 multiglandulosa
 MUMCCPUVOAUBAN
@@ -568,6 +572,7 @@ rotl
 RRID
 RSQLite
 Rutz
+RUZIUYOSRDWYQF
 rvest
 rwst
 R'Equip
