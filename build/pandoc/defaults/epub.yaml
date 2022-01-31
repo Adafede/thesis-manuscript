@@ -1,0 +1,7 @@
+# Pandoc --defaults for EPUB output.
+# Load on top of common defaults.
+to: epub
+output-file: output/manuscript.epub
+resource-path:
+ - '.'
+ - content

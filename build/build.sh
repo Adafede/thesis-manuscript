@@ -19,7 +19,9 @@ DOCKER_RUNNING="$(docker info &> /dev/null && echo "true" || (true && echo "fals
 CI="${CI:-false}"
 BUILD_PDF="${BUILD_PDF:-true}"
 BUILD_DOCX="${BUILD_DOCX:-true}"
-BUILD_LATEX="${BUILD_LATEX:-true}"
+BUILD_LATEX="${BUILD_LATEX:-false}"
+BUILD_EPUB="${BUILD_EPUB:-false}"
+BUILD_ODT="${BUILD_ODT:-false}"
 SPELLCHECK="${SPELLCHECK:-true}"
 MANUBOT_USE_DOCKER="${MANUBOT_USE_DOCKER:-$DOCKER_RUNNING}"
 # Pandoc's configuration is specified via files of option defaults
@@ -104,6 +106,26 @@ if [ "${BUILD_LATEX}" = "true" ]; then
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
     --defaults=latex.yaml \
+    # --toc
+fi
+
+# Create EPUB output (if BUILD_EPUB environment variable equals "true")
+if [ "${BUILD_EPUB}" = "true" ]; then
+  echo >&2 "Exporting ePub manuscript"
+  pandoc \
+    --data-dir="$PANDOC_DATA_DIR" \
+    --defaults=common.yaml \
+    --defaults=epub.yaml \
+    # --toc
+fi
+
+# Create ODT output (if BUILD_ODT environment variable equals "true")
+if [ "${BUILD_ODT}" = "true" ]; then
+  echo >&2 "Exporting ODT manuscript"
+  pandoc \
+    --data-dir="$PANDOC_DATA_DIR" \
+    --defaults=common.yaml \
+    --defaults=odt.yaml \
     # --toc
 fi
 
