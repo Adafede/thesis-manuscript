@@ -19,15 +19,23 @@ on:
       BUILD_DOCX:
         type: boolean
         description: generate DOCX output
-        default: true
+        default: false
       BUILD_LATEX:
         type: boolean
         description: generate LaTeX output
-        default: true
+        default: false
+      BUILD_EPUB:
+        type: boolean
+        description: generate EPUB output
+        default: false
+      BUILD_ODT:
+        type: boolean
+        description: generate ODT output
+        default: false
       SPELLCHECK:
         type: boolean
         description: Check spelling
-        default: true
+        default: false
       MANUBOT_USE_DOCKER:
         type: boolean
         description: Use Docker to generate PDF

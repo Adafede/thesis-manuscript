@@ -1,0 +1,7 @@
+# Pandoc --defaults for ODT output.
+# Load on top of common defaults.
+to: odt
+output-file: output/manuscript.odt
+resource-path:
+ - '.'
+ - content
