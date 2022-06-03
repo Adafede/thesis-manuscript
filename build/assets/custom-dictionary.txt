@@ -105,7 +105,6 @@ bufadienolides
 Candolle
 Candolle's
 carotenoiddb
-CAS
 CCBY
 CCCMSLIB
 CCMSLIB
@@ -379,6 +378,7 @@ ipynb
 IRMNG
 isbn
 Isdb
+ISDB
 Isocorydine
 Isocorypalmine
 isocratic
