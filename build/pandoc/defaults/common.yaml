@@ -13,8 +13,12 @@ wrap: preserve
 metadata:
   csl: build/assets/style.csl
   link-citations: true
+  xnos-number-by-section: true
+  lof: yes
+  lot: yes
 number-sections: true
 # a list of offsets at each heading level
 number-offset: [0,0,0,0,0,0]
 # offset Manubot's use of level-1 headings for the title only
 shift-heading-level-by: -1
+toc: false

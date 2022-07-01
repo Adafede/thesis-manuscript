@@ -46,8 +46,7 @@ echo >&2 "Exporting HTML manuscript"
 pandoc --verbose \
   --data-dir="$PANDOC_DATA_DIR" \
   --defaults=common.yaml \
-  --defaults=html.yaml \
-  # --toc
+  --defaults=html.yaml
 
 # Create PDF output (unless BUILD_PDF environment variable equals "false")
 # If Docker is not available, use WeasyPrint to create PDF
@@ -59,8 +58,7 @@ if [ "${BUILD_PDF}" != "false" ] && [ "${MANUBOT_USE_DOCKER}" != "true" ]; then
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
     --defaults=html.yaml \
-    --defaults=pdf-weasyprint.yaml \
-    # --toc
+    --defaults=pdf-weasyprint.yaml
   rm images
 fi
 
@@ -95,18 +93,17 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   pandoc --verbose \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
-    --defaults=docx.yaml \
-    # --toc
+    --defaults=docx.yaml
 fi
 
 # Create LaTeX output (if BUILD_LATEX environment variable equals "true")
 if [ "${BUILD_LATEX}" = "true" ]; then
   echo >&2 "Exporting LaTeX manuscript"
   pandoc \
+    --standalone \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
-    --defaults=latex.yaml \
-    # --toc
+    --defaults=latex.yaml
 fi
 
 # Create EPUB output (if BUILD_EPUB environment variable equals "true")
@@ -115,8 +112,7 @@ if [ "${BUILD_EPUB}" = "true" ]; then
   pandoc \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
-    --defaults=epub.yaml \
-    # --toc
+    --defaults=epub.yaml
 fi
 
 # Create ODT output (if BUILD_ODT environment variable equals "true")
@@ -125,8 +121,7 @@ if [ "${BUILD_ODT}" = "true" ]; then
   pandoc \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
-    --defaults=odt.yaml \
-    # --toc
+    --defaults=odt.yaml
 fi
 
 # Spellcheck
