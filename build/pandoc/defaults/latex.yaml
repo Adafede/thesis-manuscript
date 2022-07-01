@@ -3,6 +3,9 @@
 to: latex
 standalone: true
 output-file: output/manuscript.tex
+resource-path:
+ - '.'
+ - content
 metadata:
   - lof: true
   - lot: true
