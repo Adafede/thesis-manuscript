@@ -17,12 +17,12 @@ DOCKER_RUNNING="$(docker info &> /dev/null && echo "true" || (true && echo "fals
 
 # Set option defaults
 CI="${CI:-false}"
-BUILD_PDF="${BUILD_PDF:-true}"
-BUILD_DOCX="${BUILD_DOCX:-true}"
+BUILD_PDF="${BUILD_PDF:-false}"
+BUILD_DOCX="${BUILD_DOCX:-false}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 BUILD_EPUB="${BUILD_EPUB:-false}"
 BUILD_ODT="${BUILD_ODT:-false}"
-SPELLCHECK="${SPELLCHECK:-true}"
+SPELLCHECK="${SPELLCHECK:-false}"
 MANUBOT_USE_DOCKER="${MANUBOT_USE_DOCKER:-$DOCKER_RUNNING}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
@@ -43,7 +43,8 @@ mkdir -p output
 # Create HTML output
 # https://pandoc.org/MANUAL.html
 echo >&2 "Exporting HTML manuscript"
-pandoc --verbose \
+pandoc \
+  --verbose \
   --data-dir="$PANDOC_DATA_DIR" \
   --defaults=common.yaml \
   --defaults=html.yaml
@@ -90,7 +91,8 @@ fi
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
 if [ "${BUILD_DOCX}" = "true" ]; then
   echo >&2 "Exporting Word Docx manuscript"
-  pandoc --verbose \
+  pandoc \
+    --verbose \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
     --defaults=docx.yaml
