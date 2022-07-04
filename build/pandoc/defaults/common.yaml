@@ -14,9 +14,6 @@ metadata:
   csl: build/assets/style.csl
   link-citations: true
   xnos-number-by-section: true
-  lof: true
-  lot: true
-  geometry: margin=1.5in
   indent: true
 number-sections: true
 # a list of offsets at each heading level
