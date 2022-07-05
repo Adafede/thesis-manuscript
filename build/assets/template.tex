@@ -6,14 +6,14 @@ $else$
 $endif$
 
 % Overwrite \begin{figure}[htbp] with \begin{figure}[H]
-% \usepackage{float}
-% \let\origfigure=\figure
-% \let\endorigfigure=\endfigure
-% \renewenvironment{figure}[1][]{%
-% \origfigure[b]
-% }{%
-% \endorigfigure
-% }
+\usepackage{float}
+\let\origfigure=\figure
+\let\endorigfigure=\endfigure
+\renewenvironment{figure}[1][]{%
+\origfigure[H]
+}{%
+\endorigfigure
+}
 
 % fix for pandoc 1.14
 \providecommand{\tightlist}{%
