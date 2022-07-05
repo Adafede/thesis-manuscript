@@ -16,22 +16,27 @@ export LC_ALL=en_US.UTF-8
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
 
 # Create new pdf output
-# pip install pandoc-shortcaption
+if [ -d output/images ]; then rm -rf output/images; fi  # if images is a directory, remove it
+cp -R -L content/images ./
 pandoc \
 --output=output/thesis.pdf \
 --template=build/assets/template.tex \
 --include-in-header=build/assets/preamble.tex \
+--variable mainfont="Palatino" \
+--variable sansfont="Helvetica" \
+--variable monofont="Menlo" \
+--variable version=2.0 \
 --variable=fontsize:12pt \
 --variable=papersize:a4paper \
 --variable=documentclass:report \
 --pdf-engine=xelatex \
 output/manuscript.md \
---filter=pandoc-shortcaption \
 --filter=pandoc-xnos \
 --filter=pandoc-fignos \
 --filter=pandoc-eqnos \
 --filter=pandoc-tablenos \
 --filter=pandoc-manubot-cite \
+--lua-filter=build/pandoc/filters/short-captions.lua \
 --number-sections \
 --bibliography=output/references.json \
 --citeproc \
@@ -39,5 +44,6 @@ output/manuscript.md \
 --metadata link-citations=true \
 --verbose \
 2>pandoc.pdf.log
+rm -rf ./images
 
 echo >&2 "Build complete"
