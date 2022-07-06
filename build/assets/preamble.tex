@@ -2,17 +2,6 @@
 \renewcommand{\contentsname}{Table of Contents}
 \setcounter{tocdepth}{3}
 
-% Headers and page numbering
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyhf{}
-\fancyhead[C]{\leftmark}
-\fancyfoot[C]{\thepage}
-
-% Following package is used to add background image to front page
-\usepackage{wallpaper}
-
 % Table package
 \usepackage{ctable}% http://ctan.org/pkg/ctable
 
@@ -20,16 +9,6 @@
 \usepackage{morefloats}
 % or use \extrafloats{100}
 % add some \clearpage
-
-% % Chapter header
-% \usepackage{titlesec, blindtext, color}
-% \definecolor{gray75}{gray}{0.75}
-% \newcommand{\hsp}{\hspace{20pt}}
-% \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
-
-% % Fonts and typesetting
-% \setmainfont[Scale=1.1]{Helvetica}
-% \setsansfont[Scale=1.1]{Verdana}
 
 % FONTS
 \usepackage{xunicode}
@@ -58,15 +37,24 @@
 
 % Adjust spacing between lines to 1.5
 \usepackage{setspace}
-% \onehalfspacing
-\doublespacing
+\onehalfspacing
+% \doublespacing
 \raggedbottom
 
 % Set margins
-\usepackage[top=1.5in,bottom=1.5in,left=1.5in,right=1.4in]{geometry}
-\setlength\parindent{0.5in} % indent at start of paragraphs (set to 0.3?)
+\usepackage[top=1.0in,bottom=1.0in,left=1.0in,right=1.0in]{geometry}
+\setlength\parindent{0.3in} % indent at start of paragraphs (set to 0.3?)
 \setlength{\parskip}{9pt}
 \usepackage{indentfirst}
+
+% Headers and page numbering
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyhf{}
+\fancyhead[C]{\leftmark}
+\setlength{\headheight}{14.49998pt}
+\fancyfoot[C]{\thepage}
 
 % Add space between pararaphs
 % http://texblog.org/2012/11/07/correctly-typesetting-paragraphs-in-latex/
