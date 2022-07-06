@@ -194,48 +194,51 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
-% For first page
-\usepackage{tikz}
-%
-
 \begin{document}
-\begin{titlepage}
-\begin{tikzpicture}[overlay]
-\path(0pt,0pt);
-\begin{scope}
-\draw[line width=1.5pt]
-(-85pt, 0pt) -- (393pt, 0pt)
-;
-\draw[line width=1.5pt]
-(-85pt, 15pt) -- (393pt, 15pt)
-;
-\end{scope}
-\end{tikzpicture}
-\begin{picture}(0,0)(0,0)
-\put(-85pt, 72pt){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}UNIVERSITÉ DE GENÈVE}
-\put(245pt, 72pt){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}FACULTÉ DES SCIENCES}
-\put(-85pt, 50pt){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}Section des Sciences Pharmaceutiques}
-\put(-85pt, 30pt){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}Département de Phytochimie et produits naturels bioactifs}
-\put(230pt, 30pt){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}Professeur Jean-Luc Wolfender}
-\put(-68pt, -100pt
-){\fontsize{15}{1}\usefont{T1}{cmr}{b}{n}Integrative Analytical and Computational Strategies for Qualitative}
-\put(-28pt, -125pt){\fontsize{15}{1}\usefont{T1}{cmr}{b}{n}and Quantitative Plant Metabolome Characterization}
-\put(143.5363,-232.582){\fontsize{14}{1}\usefont{T1}{uarial}{m}{n}THÈSE}
-\put(-45.08632,-260.604){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}présentée aux Facultés de médecine et des sciences de l'Université de Genève}
-\put(-18.4373,-274.403){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}pour obtenir le grade de Docteur ès sciences en sciences de la vie,}
-\put(71.8213,-288.202){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}mention Sciences pharmaceutiques}
-\put(156.2023,-343.398){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}par}
-\put(119.8223,-365.972){\fontsize{14}{1}\usefont{T1}{cmr}{b}{n}Adriano RUTZ}
-\put(160.2003,-400.8929){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}de}
-\put(126.5283,-421.5909){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}Hitzkirch (Lucerne)}
-\put(126.9593,-495.506){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}Thèse N}
-\put(172.3113,-491.87){\fontsize{8}{1}\usefont{T1}{uarial}{m}{n}o}
-\put(176.7603,-495.506){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n} nnnn}
-\put(141.8663,-550.702){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}GENÈVE}
-\put(89.2203,-571.4){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}Nom de l'Atelier d'Impression}
-\put(153.5273,-592.098){\fontsize{12}{1}\usefont{T1}{uarial}{m}{n}2022}
-\end{picture}
-\end{titlepage}
+\setmainfont{Arial}
+\pagestyle{fancy}
+\fancypagestyle{firstpage}{%
+  \lhead{
+  UNIVERSITÉ DE GENÈVE\\
+  Section des Sciences Pharmaceutiques\\
+  Département de Phytochimie et produits naturels bioactifs
+  }
+  \rhead{FACULTÉ DES SCIENCES\\
+  Professeur Jean-Luc Wolfender\\
+  }
+  \fancyfoot{}%
+}
+\thispagestyle{firstpage}
+\begin{center}
+\singlespacing
+\vspace*{3.0cm}
+\large
+\textbf{Integrative Analytical and Computational Strategies for Qualitative and Quantitative Plant Metabolome Characterization}\\
+\vspace{3.0cm}
+\large
+{THÈSE}\\
+\vspace{0.5cm}
+\normalsize
+{présentée aux Facultés de médecine et des sciences de l'Université de Genève pour obtenir le grade de Docteur ès sciences en sciences de la vie, mention Sciences pharmaceutiques}\\
+\vspace{2.0cm}
+{par}\\
+\large
+\textbf{Adriano RUTZ}\\
+\vspace{1.0cm}
+\normalsize
+{de\\
+Hitzkirch (Lucerne)}\\
+\vspace{3.0cm}
+\normalsize
+{Thèse N° nnnn}\\
+\vspace{1.5cm}
+{GENÈVE\\
+Nom de l'Atelier d'Impression\\
+2022}
+\end{center}
+$if(mainfont)$
+    \setmainfont{$mainfont$}
+$endif$
 
 $for(include-before)$
 $include-before$
