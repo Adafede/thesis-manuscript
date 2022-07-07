@@ -194,6 +194,14 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
+\usepackage{titlesec}
+\titleformat{\chapter}% reformat chapter headings
+    [hang]% like section, with number on same line
+    {\Huge\bfseries}% formatting applied to whole
+    {\chaptername\:\thechapter:}% Chapter name + number + :
+    {0.5em}% space between # and title
+    {}% formatting applied just to title
+
 \begin{document}
 \setmainfont{Arial}
 \pagestyle{fancy}
