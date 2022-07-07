@@ -41,6 +41,9 @@ Apteryx
 Arabidopsis
 Archaeplastida
 Architeture
+Arene
+Arg
+arg
 Argemone
 Argemonine
 ARKive
@@ -106,6 +109,7 @@ Candolle
 Candolle's
 carotenoiddb
 CAS
+Caki
 CASMI
 CCBY
 CCCMSLIB
@@ -141,6 +145,7 @@ chorddiag
 Christoph
 chromatogram
 Chromatographic
+chromophore
 chromophores
 Chun
 clade
@@ -197,6 +202,8 @@ deconvoluted
 deconvolution
 deduplicate
 deduplication
+deglucohellebrin
+deoxyribonolactone
 der
 dereplication
 Dermocybe
@@ -210,6 +217,7 @@ dichloromethane
 Dimensionality
 dimeric
 dimers
+Dimethyl
 diterpene
 DM
 Dmitry
@@ -226,6 +234,7 @@ DTGCRPNFSA
 dysregulated
 eBird
 Ebrahimi
+ecdysteroids
 eg
 Egon
 egonw
@@ -253,6 +262,7 @@ ethnopharmacological
 Eukaryota
 EUNIS
 Eurycoma
+Evaporative
 evidentiary
 Evin
 EvoMRI
@@ -283,6 +293,7 @@ Fribourg
 Friedrich
 frontend
 Fungorum
+furostanol
 furostanols
 FWHM
 Galgonek
@@ -293,6 +304,7 @@ GC
 gdata
 Genbank
 generalistic
+geno
 Gentiana
 gf
 gfnxpj
@@ -313,6 +325,7 @@ gjjz
 glaucine
 Glaucium
 gliotoxin
+glucopyranosyl
 glucoside
 glycoside
 GNA
@@ -334,10 +347,13 @@ Haddon
 Hegnauer
 Hegnauer's
 Helleborus
+hellebrigenin
+hellebrin
 hemi
 heptadecanoic
 Herbarium
 HESI
+Heteronuclear
 heterotypic
 hexane
 HILIC
@@ -353,10 +369,13 @@ Hu
 Hydroxycinnamic
 hydroxycinnamic
 hydroxycoumarins
+hydroxyecdysone
+hydroxypodecdysone
 Hyptis
 IBAHCM
 iboga
 ibogaine
+IC
 idf
 IDSM
 IK
@@ -374,6 +393,7 @@ Ingkaninan
 inhomogeneous
 initio
 IntelliJ
+interferences
 interlinkages
 interpretable
 intra
@@ -410,6 +430,7 @@ JUnit
 Jupyter
 Justina
 Kang
+Karst
 KDFKJOFJHSVROC
 KEMQGTRYUADPNZ
 Kikuchi
@@ -443,6 +464,7 @@ liriodenine
 LM
 LNPN
 Lockdown
+locomotor
 logP
 longifolia
 lotusProcessor
@@ -451,6 +473,7 @@ lutea
 LW
 Maastricht
 macrolides
+macroscope
 magicTree
 Magnoliopsida
 Malpighiaceae
@@ -496,6 +519,7 @@ monofluoracetate
 monogenic
 monogyna
 monomeric
+Monosubstances
 Montclair
 morphometric
 Mozzherin
@@ -541,6 +565,7 @@ NRCS
 Ntie
 nubbe
 nucifera
+Nutraceuticals
 NUTRIM
 Nwodo
 NXZXPYYKGQCDRO
@@ -576,18 +601,23 @@ pbmcapply
 PCRPS
 PDA
 peaklist
+pentylenetetrazole
 periderm
 permalink
 Petit
 Pflanzen
 pharmacognosy
+pharmacopeia
 Phasmida
+Phe
+phe
 PhenolExplorer
 phenotypic
 phenylalanine
 Phitsanulok
 Phlegmacium
 PHO
+phosphaadamantane
 photoactive
 photoactivity
 photobiological
@@ -605,6 +635,8 @@ physicochemical
 Phytochemical
 Phytochemistry
 phytohub
+phytopathogenic
+Phytopharmaceuticals
 Pinnaka
 Plantae
 platyceras
@@ -621,6 +653,7 @@ pos
 pre
 Predicentrine
 preparative
+preprocessed
 preprocessing
 pretreatment
 problematics
@@ -631,6 +664,7 @@ ProteinBoxBot
 ProteoWizard
 protonated
 PSKQBNMDFPYFNM
+PTZ
 PubChem
 publishingDetails
 pubmed
@@ -651,6 +685,7 @@ Ranunculaceae
 Ranunculales
 Rapta
 Rcrossref
+RDE
 RDF
 RDFFrames
 RDKit
@@ -669,12 +704,14 @@ Rheodyne
 Rhizopodaceae
 rhizoxin
 Rmd
+RME
 ROC
 Roderic
 ROMol
 Ronin
 rootstock
 rotl
+Roxb
 RRID
 RSQLite
 rubrophyllus
@@ -698,6 +735,7 @@ SCR
 SDF
 Secocularidine
 Secosarcocapnidine
+semithin
 ser
 Servet
 SFB
@@ -726,6 +764,7 @@ SPE
 speciation
 spectrometry
 Spiegeleer
+spirostanol
 splitstackshape
 spp
 Squatina
@@ -753,6 +792,7 @@ subscripting
 subsp
 subtribe
 SuccuBot
+sulfoxide
 Sunitinib
 svg
 svgs
@@ -774,6 +814,8 @@ Termitidae
 terpenoid
 terpenoids
 Tetrahydroxyaporphine
+Tetramethylsilane
+Tetrapeptide
 Tezuka
 tf
 thaliana
@@ -799,6 +841,7 @@ transdisciplinary
 transformational
 transformative
 treeio
+Triaza
 trigocherrin
 Trigonostemon
 Trigonstemion
