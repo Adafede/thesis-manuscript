@@ -71,6 +71,7 @@ BEH
 Beheshti
 benchmarked
 Benchmarking
+BGB
 Bhardwaj
 BiGCaT
 bioactive
@@ -106,6 +107,7 @@ brevipolides
 Bromus
 Bruker
 Bryophyta
+Buchi
 Buchner
 bufadienolides
 Candolle
@@ -127,6 +129,7 @@ cernua
 cevadine
 CFM
 Charlottesville
+Chasselas
 ChEBI
 ChemAxon
 ChemBioSys
@@ -164,6 +167,7 @@ codebase
 Colletotrichum
 combinatorial
 complementarity
+Compostela
 Constit
 Cordia
 Corydalis
@@ -200,12 +204,14 @@ Datawarrior
 DBI
 DBs
 decandolleEssaiProprietesMedicales
+decantation
 decoction
 deconvoluted
 deconvolution
 deduplicate
 deduplication
 deglucohellebrin
+demineralized
 deoxyribonolactone
 der
 dereplication
@@ -264,6 +270,7 @@ ethanolic
 ethnobotany
 ethnomedicine
 ethnopharmacological
+EtOH
 Eukaryota
 EUNIS
 Eurycoma
@@ -334,6 +341,7 @@ gliotoxin
 glucopyranosyl
 glucoside
 glycoside
+GmbH
 GNA
 GNF
 gnfinder
@@ -350,6 +358,7 @@ Guan
 guayusa
 Gunatilaka
 Haddon
+HD
 Hegnauer
 Hegnauer's
 Helleborus
@@ -399,6 +408,7 @@ infoboxes
 Ingkaninan
 inhomogeneous
 initio
+inox
 IntelliJ
 interferences
 interlinkages
@@ -441,6 +451,7 @@ Karst
 KDFKJOFJHSVROC
 KEMQGTRYUADPNZ
 Kikuchi
+Knauer
 konnector
 koreana
 Kornkanok
@@ -495,6 +506,8 @@ Mazandaran
 Medema
 Meliaceae
 MeOH
+Mestrelab
+MestReNova
 metabolights
 metabolome
 metabolomes
@@ -710,6 +723,7 @@ reranking
 rescaled
 resubmission
 revalidation
+Rheinstetten
 Rheodyne
 Rhizopodaceae
 rhizoxin
@@ -849,6 +863,7 @@ Tongchai
 TP
 tppt
 Tracheophyta
+Tradall
 transdisciplinary
 transformational
 transformative
@@ -857,6 +872,7 @@ Triaza
 trigocherrin
 Trigonostemon
 Trigonstemion
+trimethylsilane
 trinervitane
 triplestore
 triterpenoid
@@ -930,6 +946,7 @@ yanhusuo
 Youtrack
 zebrafish
 Zenodo
+Zeoprep
 Zephyranthes
 zeylanica
 zeylanicus
