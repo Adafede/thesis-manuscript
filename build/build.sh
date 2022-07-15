@@ -17,7 +17,7 @@ DOCKER_RUNNING="$(docker info &> /dev/null && echo "true" || (true && echo "fals
 
 # Set option defaults
 CI="${CI:-false}"
-BUILD_PDF="${BUILD_PDF:-true}"
+BUILD_PDF="${BUILD_PDF:-false}"
 BUILD_DOCX="${BUILD_DOCX:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 BUILD_EPUB="${BUILD_EPUB:-false}"
