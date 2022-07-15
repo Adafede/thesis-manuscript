@@ -38,6 +38,8 @@ antibase
 Antifungal
 antimarin
 Antiseizure
+Apiaceae
+Apocynaceae
 Apteryx
 Arabidopsis
 Archaeplastida
@@ -101,6 +103,7 @@ bjonnh
 bkfd
 Bolzani
 Boraginaceae
+Brassicaceae
 brevipes
 Brevipolide
 brevipolides
@@ -155,6 +158,7 @@ chromophore
 chromophores
 Chun
 clade
+clades
 ClassyFire
 ClassyfireR
 claviculata
@@ -195,6 +199,7 @@ cyclophyllus
 Cytological
 cytological
 Cytoscape
+Dagstuhl
 Damerau
 daphnane
 Darmstadt
@@ -252,6 +257,7 @@ egonw
 egonwillighagen
 ei
 electrospray
+eLife
 ELSD
 eluent
 eluted
@@ -274,6 +280,7 @@ ethnopharmacological
 EtOH
 Eukaryota
 EUNIS
+Euphorbiaceae
 Eurycoma
 Evaporative
 evidentiary
@@ -467,6 +474,7 @@ Kumar
 kV
 KZJWDPNRJALLNS
 LabSolutions
+Lamiaceae
 larictrin
 Larix
 latex
@@ -559,6 +567,7 @@ mzXML
 Nagai
 NameBank
 nanpdb
+Napoli
 NAPRALERT
 Naresuan
 natively
@@ -604,6 +613,7 @@ oncological
 oolonek
 OpenJDK
 OPSIN
+Orchidaceae
 orcid
 organoids
 orthoester
@@ -739,7 +749,9 @@ rotl
 Roxb
 RRID
 RSQLite
+Rubiaceae
 rubrophyllus
+Rutaceae
 Rutz
 RUZIUYOSRDWYQF
 rvest
@@ -760,9 +772,13 @@ SCR
 SDF
 Secocularidine
 Secosarcocapnidine
+Seefeld
 semithin
+Senecio
 ser
 Servet
+Sessile
+sessile
 SFB
 Shaghayegh
 Shahid
@@ -779,6 +795,7 @@ sitosterol
 SmilesDrawer
 SNE
 SNF
+Solanaceae
 Solanum
 solubilized
 somniferum
