@@ -31,6 +31,7 @@ Anil
 Animalia
 anisophylla
 Annonaceae
+annua
 Anshu
 anthraquinone
 anthraquinones
@@ -54,6 +55,7 @@ Arnaud
 ArnaudGaudry
 artefactual
 Artemisia
+Artemisinin
 arXiv
 Ashwani
 Aspergillus
@@ -119,6 +121,7 @@ carotenoiddb
 CAS
 Caki
 CASMI
+Catharanthus
 CCBY
 CCCMSLIB
 CCMSLIB
@@ -168,6 +171,7 @@ CMU
 CN
 coccodes
 codebase
+Coffea
 Colletotrichum
 combinatorial
 complementarity
@@ -378,6 +382,7 @@ Herbarium
 HESI
 Heteronuclear
 heterotypic
+Hevea
 hexane
 hierarchized
 HILIC
@@ -718,6 +723,7 @@ Ralf
 Ranunculaceae
 Ranunculales
 Rapta
+Rauvolfia
 Rcrossref
 RDE
 RDF
@@ -745,6 +751,7 @@ Roderic
 ROMol
 Ronin
 rootstock
+roseus
 rotl
 Roxb
 RRID
@@ -776,6 +783,7 @@ Seefeld
 semithin
 Senecio
 ser
+serpentina
 Servet
 Sessile
 sessile
@@ -962,6 +970,7 @@ Xtools
 Yamada
 yanhusuo
 Youtrack
+Youyou
 zebrafish
 Zenodo
 Zeoprep
