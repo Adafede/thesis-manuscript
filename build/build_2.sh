@@ -35,6 +35,7 @@ output/manuscript.md \
 --filter=pandoc-fignos \
 --filter=pandoc-eqnos \
 --filter=pandoc-tablenos \
+--filter=pandoc-secnos \
 --filter=pandoc-manubot-cite \
 --lua-filter=build/pandoc/filters/short-captions.lua \
 --number-sections \
