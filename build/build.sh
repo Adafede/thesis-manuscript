@@ -157,4 +157,8 @@ if [ "${SPELLCHECK}" = "true" ]; then
   rm output/expanded-spelling-errors.txt
 fi
 
+echo >&2 "Copying references"
+
+cp output/references.json content/manual-references.json
+
 echo >&2 "Build complete"

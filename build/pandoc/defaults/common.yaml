@@ -7,6 +7,7 @@ filters:
 - pandoc-fignos
 - pandoc-eqnos
 - pandoc-tablenos
+- pandoc-secnos
 - pandoc-manubot-cite
 - citeproc
 wrap: preserve
