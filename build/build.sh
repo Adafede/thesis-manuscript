@@ -18,7 +18,8 @@ DOCKER_RUNNING="$(docker info &> /dev/null && echo "true" || (true && echo "fals
 # Set option defaults
 CI="${CI:-false}"
 BUILD_PDF="${BUILD_PDF:-false}"
-BUILD_DOCX="${BUILD_DOCX:-true}"
+BUILD_DOCX="${BUILD_DOCX:-false}"
+BUILD_HTML="${BUILD_HTML:-false}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 BUILD_EPUB="${BUILD_EPUB:-false}"
 BUILD_ODT="${BUILD_ODT:-false}"
@@ -42,12 +43,14 @@ mkdir -p output
 
 # Create HTML output
 # https://pandoc.org/MANUAL.html
-echo >&2 "Exporting HTML manuscript"
-pandoc \
-  --verbose \
-  --data-dir="$PANDOC_DATA_DIR" \
-  --defaults=common.yaml \
-  --defaults=html.yaml
+if [ "${BUILD_DOCX}" = "true" ]; then
+  echo >&2 "Exporting HTML manuscript"
+  pandoc \
+    --verbose \
+    --data-dir="$PANDOC_DATA_DIR" \
+    --defaults=common.yaml \
+    --defaults=html.yaml
+fi
 
 # Create PDF output (unless BUILD_PDF environment variable equals "false")
 # If Docker is not available, use WeasyPrint to create PDF
