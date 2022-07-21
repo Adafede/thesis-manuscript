@@ -19,7 +19,7 @@ DOCKER_RUNNING="$(docker info &> /dev/null && echo "true" || (true && echo "fals
 CI="${CI:-false}"
 BUILD_PDF="${BUILD_PDF:-false}"
 BUILD_DOCX="${BUILD_DOCX:-false}"
-BUILD_HTML="${BUILD_HTML:-false}"
+BUILD_HTML="${BUILD_HTML:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 BUILD_EPUB="${BUILD_EPUB:-false}"
 BUILD_ODT="${BUILD_ODT:-false}"
@@ -43,7 +43,7 @@ mkdir -p output
 
 # Create HTML output
 # https://pandoc.org/MANUAL.html
-if [ "${BUILD_DOCX}" = "true" ]; then
+if [ "${BUILD_HTML}" = "true" ]; then
   echo >&2 "Exporting HTML manuscript"
   pandoc \
     --verbose \

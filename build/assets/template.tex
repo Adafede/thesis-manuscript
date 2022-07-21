@@ -1,5 +1,5 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
-$if(fontfamily)$
+$if(fontfamily)$[toc=flat,numbers=noenddot]{scrartcl}
 \usepackage{$fontfamily$}
 $else$
 \usepackage{lmodern}
@@ -205,6 +205,65 @@ $endfor$
 
 % Special note
 \usepackage{musixtex}
+
+\usepackage{xpatch}
+% Just in case we're not using hyperref
+\providecommand{\phantomsection}{}
+
+% Generate the separate list of commands for appendix figures and tables
+\newcommand{\listofappendixfiguresname}{List of Figures in Appendix}
+\newlistof{appendixfigures}{apf}{\listofappendixfiguresname}
+\newcommand{\listofappendixtablesname}{List of Tables in Appendix}
+\newlistof{appendixtables}{apt}{\listofappendixtablesname}
+\renewcommand{\cftafterapftitle}{\phantomsection\addcontentsline{toc}{chapter}{\listofappendixfiguresname}}
+\renewcommand{\cftafterapttitle}{\phantomsection\addcontentsline{toc}{chapter}{\listofappendixtablesname}}
+\xpretocmd{\listofappendixfigures}{\clearpage}{}{}
+\xpretocmd{\listofappendixtables}{\clearpage}{}{}
+\makeatletter
+\xapptocmd{\appendix}{%
+  \write\@auxout{%
+    \string\let\string\latex@tf@lof\string\tf@lof% Store the original `\tf@lof` file handle
+    \string\let\string\tf@lof\string\tf@apf% 
+    \string\let\string\latex@tf@lof\string\tf@lot% Store the original `\tf@lot` file handle
+    \string\let\string\tf@lot\string\tf@apt% 
+  }%
+}{}{}
+\makeatother
+
+\makeatletter
+\newcommand*{\maintoc}{% main table of contents
+  \begingroup
+    \@fileswfalse% don't open new ToC file
+    \renewcommand*{\appendixattoc}{% macro for separation of ToC contents
+      \value{tocdepth}=-10000 % set tocdepth to very small value locally
+    }%
+    \tableofcontents% output ToC
+  \endgroup
+}
+\newcommand*{\appendixtoc}{% table of contents for appendix
+  \begingroup
+    \edef\@alltocdepth{\the\value{tocdepth}}% save tocdepth
+    \setcounter{tocdepth}{-10000}% no ToC entries
+    \renewcommand*{\contentsname}{% change ToC name
+      Appendices}% "Appendices" INSTEAD OF "Verzeichnis der Anh\"ange"
+    \renewcommand*{\appendixattoc}{% macro for separation of ToC contents
+      \setcounter{tocdepth}{\@alltocdepth}% restore tocdepth
+    }%
+    \tableofcontents% output ToC
+    \setcounter{tocdepth}{\@alltocdepth}% restore tocdepth
+  \endgroup
+}
+\newcommand*{\appendixattoc}{% macro for separation of ToC contents
+}
+\g@addto@macro\appendix{% augment \appendix
+%  \if@openright\cleardoublepage\else\clearpage\fi% new page; DELETED
+  \clearpage% new page; ADDED
+  % \addcontentsline{toc}{section}{\appendixname}% entry into main ToC;
+%     "section" INSTEAD OF "chapter"
+  \addtocontents{toc}{\protect\appendixattoc}% macro for separation into ToC file
+  % \renewcommand*{\thesection}{Appendix~\Alph{section}}% ADDED
+}
+\makeatother
 
 \usepackage[labelfont=bf]{caption}
 
