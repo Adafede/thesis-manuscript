@@ -24,7 +24,7 @@
     "title": "U.S. Department of Agriculture, Agricultural Research Service. Dr. Duke's Phytochemical and Ethnobotanical Databases.",
     "type": "webpage",
     "URL": "https://phytochem.nal.usda.gov/",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: DepartmentAgricultureAgricultural1992\noriginal_id: 1HQ8C1kF4"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: DepartmentAgricultureAgricultural1992\noriginal_id: 1HQ8C1kF4\nsource_bibliography: references.json"
   },
   {
     "id": "aBMvYmj0",
@@ -48,7 +48,7 @@
     "title": "GBIF.org",
     "type": "webpage",
     "URL": "https://www.gbif.org",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: GBIFOrg2020\noriginal_id: aBMvYmj0"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: GBIFOrg2020\noriginal_id: aBMvYmj0\nsource_bibliography: references.json"
   },
   {
     "id": "1CVDln27l",
@@ -71,7 +71,7 @@
     "title": "WAKANKENSAKU - Main Page",
     "type": "webpage",
     "URL": "https://wakankensaku.inm.u-toyama.ac.jp/wiki/Main_Page",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: MainPageWAKANKENSAKU\noriginal_id: 1CVDln27l"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: MainPageWAKANKENSAKU\noriginal_id: 1CVDln27l\nsource_bibliography: references.json"
   },
   {
     "id": "1BXLY6HF1",
@@ -85,7 +85,7 @@
         ]
       ]
     },
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: RDKitOpensourceCheminformatics\noriginal_id: 1BXLY6HF1"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: RDKitOpensourceCheminformatics\noriginal_id: 1BXLY6HF1\nsource_bibliography: references.json"
   },
   {
     "id": "7J4ZPUL7",
@@ -106,7 +106,7 @@
     "title": "ggnewscale: Multiple fill and colour scales in 'ggplot2'",
     "type": "report",
     "URL": "https://CRAN.R-project.org/package=ggnewscale",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: campitelliGgnewscaleMultipleFill2021\noriginal_id: 7J4ZPUL7"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: campitelliGgnewscaleMultipleFill2021\noriginal_id: 7J4ZPUL7\nsource_bibliography: references.json"
   },
   {
     "id": "UHC5x6VA",
@@ -142,7 +142,7 @@
     "title": "rcrossref: Client for Various 'CrossRef' 'APIs'",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=rcrossref",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: chamberlainRcrossrefClientVarious2020\noriginal_id: UHC5x6VA"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: chamberlainRcrossrefClientVarious2020\noriginal_id: UHC5x6VA\nsource_bibliography: references.json"
   },
   {
     "id": "xVEzsOX1",
@@ -172,7 +172,7 @@
         ]
       ]
     },
-    "note": "ZSCC: NoCitationData[s1]\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: decandolleEssaiProprietesMedicales1816\noriginal_id: xVEzsOX1",
+    "note": "ZSCC: NoCitationData[s1]\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: decandolleEssaiProprietesMedicales1816\noriginal_id: xVEzsOX1\nsource_bibliography: references.json",
     "publisher": "Chez Crochard, Libraire,",
     "publisher-place": "Paris",
     "source": "DOI.org (Crossref)",
@@ -204,7 +204,7 @@
     "issued": {
       "literal": "31st August to 3rd September 2015"
     },
-    "note": "ZSCC: NoCitationData[s1]\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: deresesolomonMitishambaDatabaseWeb2015\noriginal_id: fAKz2qgk",
+    "note": "ZSCC: NoCitationData[s1]\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: deresesolomonMitishambaDatabaseWeb2015\noriginal_id: fAKz2qgk\nsource_bibliography: references.json",
     "publisher-place": "Arusha, Tanzania",
     "title": "Mitishamba database: a web based in silico database of natural products from Kenya plants",
     "type": "speech"
@@ -250,7 +250,7 @@
     "URL": "https://doi.org/b849kr",
     "container-title-short": "Angew. Chem. Int. Ed.",
     "id": "Kw2K0RCF",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/(sici)1521-3773(19990301)38:5<643::aid-anie643>3.0.co;2-g\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Kw2K0RCF"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/(sici)1521-3773(19990301)38:5<643::aid-anie643>3.0.co;2-g\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Kw2K0RCF\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -293,7 +293,7 @@
     "URL": "https://doi.org/f47nt7",
     "container-title-short": "J Am Soc Inf Sci Tec",
     "id": "WNY3oEAs",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/asi.22784\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WNY3oEAs"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/asi.22784\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WNY3oEAs\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -335,7 +335,7 @@
     "URL": "https://doi.org/c5tmt3",
     "container-title-short": "HCA",
     "id": "pSf2usEv",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/hlca.200490005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pSf2usEv"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/hlca.200490005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pSf2usEv\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -503,7 +503,7 @@
     "container-title-short": "J. Mass Spectrom.",
     "PMID": "20623627",
     "id": "jTCd8yG0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/jms.1777\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: jTCd8yG0"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/jms.1777\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: jTCd8yG0\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -543,7 +543,7 @@
     "container-title-short": "J. Mass Spectrom.",
     "PMID": "24719347",
     "id": "akHQb8v1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/jms.3345\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: akHQb8v1"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/jms.3345\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: akHQb8v1\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -595,7 +595,7 @@
     "container-title-short": "Mass Spectrom. Rev.",
     "PMID": "21387356",
     "id": "5QL7CwsO",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/mas.20329\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 5QL7CwsO"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/mas.20329\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 5QL7CwsO\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -668,7 +668,7 @@
     "PMCID": "PMC8106966",
     "PMID": "28436590",
     "id": "puz4kBUU",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/mas.21535\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: puz4kBUU"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/mas.21535\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: puz4kBUU\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer-Verlag",
@@ -723,7 +723,7 @@
     "issued": {},
     "URL": "https://doi.org/db44mg",
     "id": "2fEiIH9c",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/3-540-29782-0_13\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 2fEiIH9c"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/3-540-29782-0_13\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 2fEiIH9c\nsource_bibliography: references.json"
   },
   {
     "publisher": "Birkhäuser Basel",
@@ -746,7 +746,7 @@
     },
     "URL": "https://doi.org/gj2xv5",
     "id": "AgCpbRSb",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/978-3-0348-9314-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: AgCpbRSb"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/978-3-0348-9314-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: AgCpbRSb\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Berlin Heidelberg",
@@ -769,7 +769,7 @@
     },
     "URL": "https://doi.org/fd4xcj",
     "id": "15tHEF73t",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/978-3-642-68641-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15tHEF73t"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/978-3-642-68641-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15tHEF73t\nsource_bibliography: references.json"
   },
   {
     "publisher": "Portland Press Ltd.",
@@ -801,7 +801,7 @@
     "URL": "https://doi.org/d47p8w",
     "PMID": "2679902",
     "id": "DO6IEUOa",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/bf01119794\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: DO6IEUOa"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/bf01119794\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: DO6IEUOa\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -840,7 +840,7 @@
     "container-title-short": "Experientia",
     "PMID": "12998611",
     "id": "zxzWadK8",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/bf02174406\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zxzWadK8"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/bf02174406\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zxzWadK8\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -887,7 +887,7 @@
     "URL": "https://doi.org/gh5ptd",
     "container-title-short": "Med Chem Res",
     "id": "mpr5sPI7",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s00044-016-1764-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: mpr5sPI7"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s00044-016-1764-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: mpr5sPI7\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -920,7 +920,7 @@
     "PMCID": "PMC5840250",
     "PMID": "29540963",
     "id": "ZOnMfx6V",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s00049-017-0250-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ZOnMfx6V"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s00049-017-0250-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ZOnMfx6V\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -972,7 +972,7 @@
     "container-title-short": "Anal Bioanal Chem",
     "PMID": "23334257",
     "id": "WNMjiFyj",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s00216-013-6704-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WNMjiFyj"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s00216-013-6704-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WNMjiFyj\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -1007,7 +1007,7 @@
     "URL": "https://doi.org/gfcbhz",
     "container-title-short": "Biol Invasions",
     "id": "d40oYUNT",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s10530-018-1735-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: d40oYUNT"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s10530-018-1735-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: d40oYUNT\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -1046,7 +1046,7 @@
     "URL": "https://doi.org/gf7sqv",
     "container-title-short": "Metabolomics",
     "id": "Bh6OKJ5x",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s11306-014-0676-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Bh6OKJ5x"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s11306-014-0676-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Bh6OKJ5x\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier",
@@ -1075,7 +1075,7 @@
     },
     "URL": "https://doi.org/d8b6k9",
     "id": "KmGsdzOE",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/b978-008045382-8.00060-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: KmGsdzOE"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/b978-008045382-8.00060-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: KmGsdzOE\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1113,7 +1113,7 @@
     "container-title-short": "Current Opinion in Chemical Biology",
     "PMID": "28088695",
     "id": "18CLHuvEd",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cbpa.2016.12.022\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 18CLHuvEd"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cbpa.2016.12.022\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 18CLHuvEd\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1156,7 +1156,7 @@
     "PMCID": "PMC5337156",
     "PMID": "28113135",
     "id": "8CI3kYOc",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cbpa.2017.01.001\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8CI3kYOc"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cbpa.2017.01.001\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8CI3kYOc\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1190,7 +1190,7 @@
     "container-title-short": "Current Opinion in Chemical Biology",
     "PMID": "30682725",
     "id": "4BlMGIgW",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cbpa.2018.12.007\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 4BlMGIgW"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cbpa.2018.12.007\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 4BlMGIgW\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1224,7 +1224,7 @@
     "container-title-short": "Clinica Chimica Acta",
     "PMID": "26341893",
     "id": "uuQvInHy",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cca.2015.08.027\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: uuQvInHy"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cca.2015.08.027\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: uuQvInHy\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1256,7 +1256,7 @@
     "PMCID": "PMC5070666",
     "PMID": "26638061",
     "id": "1AOJtDW8C",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cell.2015.11.031\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1AOJtDW8C"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.cell.2015.11.031\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1AOJtDW8C\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1323,7 +1323,7 @@
     "container-title-short": "Journal of Chromatography A",
     "PMID": "20452602",
     "id": "Cj7L9BUY",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.chroma.2010.04.047\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Cj7L9BUY"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.chroma.2010.04.047\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Cj7L9BUY\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1353,7 +1353,7 @@
     "container-title-short": "Current Opinion in Biotechnology",
     "PMID": "29413746",
     "id": "TgDlrv2t",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.copbio.2018.01.008\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: TgDlrv2t"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.copbio.2018.01.008\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: TgDlrv2t\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1404,7 +1404,7 @@
     "PMCID": "PMC6110999",
     "PMID": "29499476",
     "id": "QBTqPbZC",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.copbio.2018.02.010\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: QBTqPbZC"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.copbio.2018.02.010\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: QBTqPbZC\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1447,7 +1447,7 @@
     "container-title-short": "European Journal of Pharmaceutics and Biopharmaceutics",
     "PMID": "17703929",
     "id": "BQ6H45f5",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.ejpb.2007.06.018\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: BQ6H45f5"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.ejpb.2007.06.018\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: BQ6H45f5\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1498,7 +1498,7 @@
     "container-title-short": "Journal of Ethnopharmacology",
     "PMID": "22659196",
     "id": "Go2AAIYt",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.jep.2012.05.038\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Go2AAIYt"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.jep.2012.05.038\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Go2AAIYt\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1576,7 +1576,7 @@
     "container-title-short": "Journal of Ethnopharmacology",
     "PMID": "32445663",
     "id": "lmXdEFZ3",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.jep.2020.112954\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: lmXdEFZ3"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.jep.2020.112954\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: lmXdEFZ3\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1614,7 +1614,7 @@
     "container-title-short": "Microbiological Research",
     "PMID": "33529791",
     "id": "jTfisB4q",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.micres.2021.126708\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: jTfisB4q"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.micres.2021.126708\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: jTfisB4q\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1688,7 +1688,7 @@
     "container-title-short": "Phytochemistry",
     "PMID": "22867903",
     "id": "12Ui1Rc6x",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytochem.2012.07.007\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 12Ui1Rc6x"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytochem.2012.07.007\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 12Ui1Rc6x\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1734,7 +1734,7 @@
     "container-title-short": "Phytochemistry",
     "PMID": "34775270",
     "id": "19blwDMah",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytochem.2021.113011\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 19blwDMah"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytochem.2021.113011\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 19blwDMah\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1763,7 +1763,7 @@
     "URL": "https://doi.org/gh533j",
     "container-title-short": "Phytochemistry Letters",
     "id": "MGL5MqgM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytol.2016.10.009\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: MGL5MqgM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytol.2016.10.009\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: MGL5MqgM\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1824,7 +1824,7 @@
     "URL": "https://doi.org/gjqfcv",
     "container-title-short": "Phytochemistry Letters",
     "id": "yAt8eWqB",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytol.2020.02.005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yAt8eWqB"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.phytol.2020.02.005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yAt8eWqB\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1870,7 +1870,7 @@
     "container-title-short": "Talanta",
     "PMID": "30348423",
     "id": "yVPxPqjM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.talanta.2018.09.048\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yVPxPqjM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.talanta.2018.09.048\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yVPxPqjM\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1901,7 +1901,7 @@
     "container-title-short": "Trends in Plant Science",
     "PMID": "15165558",
     "id": "BSCQ82T",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.tplants.2004.04.005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: BSCQ82T"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.tplants.2004.04.005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: BSCQ82T\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1938,7 +1938,7 @@
     "URL": "https://doi.org/gqbqp7",
     "container-title-short": "TrAC Trends in Analytical Chemistry",
     "id": "U78M3v96",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.trac.2018.10.038\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: U78M3v96"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.trac.2018.10.038\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: U78M3v96\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -1975,7 +1975,7 @@
     "URL": "https://doi.org/gqfc84",
     "container-title-short": "TrAC Trends in Analytical Chemistry",
     "id": "1CNL3q0MM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.trac.2021.116354\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1CNL3q0MM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.trac.2021.116354\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1CNL3q0MM\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -2061,7 +2061,7 @@
     "container-title-short": "Water Research",
     "PMID": "33765498",
     "id": "OhONtrcV",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.watres.2021.117017\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: OhONtrcV"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.watres.2021.117017\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: OhONtrcV\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -2091,7 +2091,7 @@
     "URL": "https://doi.org/d592kt",
     "container-title-short": "Phytochemistry",
     "id": "18uusIb9e",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/s0031-9422(00)81204-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 18uusIb9e"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/s0031-9422(00)81204-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 18uusIb9e\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -2133,7 +2133,7 @@
     "URL": "https://doi.org/b3z2g7",
     "container-title-short": "Journal of Biotechnology",
     "id": "IhdADmDO",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/s0168-1656(99)00210-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: IhdADmDO"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/s0168-1656(99)00210-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: IhdADmDO\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2197,7 +2197,7 @@
     "container-title-short": "Anal. Chem.",
     "PMID": "26882108",
     "id": "Y25XY9UD",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.5b04804\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Y25XY9UD"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.5b04804\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Y25XY9UD\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2262,7 +2262,7 @@
     "PMCID": "PMC7063832",
     "PMID": "27419259",
     "id": "XKaxHyyP",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.6b00770\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: XKaxHyyP"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.6b00770\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: XKaxHyyP\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2299,7 +2299,7 @@
     "PMCID": "PMC6427824",
     "PMID": "28914531",
     "id": "ChQCDd1F",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.7b02380\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ChQCDd1F"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.7b02380\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ChQCDd1F\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2347,7 +2347,7 @@
     "container-title-short": "Anal. Chem.",
     "PMID": "30453740",
     "id": "NiUsrPu5",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.8b05112\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: NiUsrPu5"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.analchem.8b05112\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: NiUsrPu5\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2395,7 +2395,7 @@
     "container-title-short": "J. Agric. Food Chem.",
     "PMID": "29944838",
     "id": "fP0lai2j",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jafc.8b01639\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: fP0lai2j"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jafc.8b01639\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: fP0lai2j\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2431,7 +2431,7 @@
     "container-title-short": "J. Chem. Inf. Model.",
     "PMID": "29257869",
     "id": "eLVYiiAg",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jcim.7b00425\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: eLVYiiAg"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jcim.7b00425\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: eLVYiiAg\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2479,7 +2479,7 @@
     "container-title-short": "J. Chem. Inf. Model.",
     "PMID": "30540445",
     "id": "lB6krLxn",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jcim.8b00560\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: lB6krLxn"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jcim.8b00560\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: lB6krLxn\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2532,7 +2532,7 @@
     "PMCID": "PMC4791574",
     "PMID": "26505758",
     "id": "WwEEYuQ9",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jmedchem.5b01009\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WwEEYuQ9"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jmedchem.5b01009\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WwEEYuQ9\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2601,7 +2601,7 @@
     "PMCID": "PMC8631337",
     "PMID": "34662515",
     "id": "EqnD2i7G",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jnatprod.1c00399\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: EqnD2i7G"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jnatprod.1c00399\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: EqnD2i7G\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2681,7 +2681,7 @@
     "container-title-short": "J. Nat. Prod.",
     "PMID": "35640148",
     "id": "16HCY2X77",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jnatprod.2c00146\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16HCY2X77"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jnatprod.2c00146\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16HCY2X77\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2749,7 +2749,7 @@
     "container-title-short": "J. Nat. Prod.",
     "PMID": "28641017",
     "id": "6xTnsq5S",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jnatprod.7b00283\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 6xTnsq5S"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jnatprod.7b00283\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 6xTnsq5S\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2785,7 +2785,7 @@
     "container-title-short": "J. Phys. Chem. A",
     "PMID": "27139033",
     "id": "17Kxovcmc",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jpca.6b02907\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 17Kxovcmc"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acs.jpca.6b02907\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 17Kxovcmc\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -2986,7 +2986,7 @@
     "PMCID": "PMC6891855",
     "PMID": "31807684",
     "id": "1H1kBOCRr",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acscentsci.9b00806\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1H1kBOCRr"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/acscentsci.9b00806\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1H1kBOCRr\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3017,7 +3017,7 @@
     "URL": "https://doi.org/fg6q5f",
     "container-title-short": "J. Chem. Inf. Model.",
     "id": "t7Cw5tqt",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci00057a005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: t7Cw5tqt"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci00057a005\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: t7Cw5tqt\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3061,7 +3061,7 @@
     "container-title-short": "J. Chem. Inf. Model.",
     "PMID": "21384929",
     "id": "pf43Zseq",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci100384d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pf43Zseq"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci100384d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pf43Zseq\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3105,7 +3105,7 @@
     "container-title-short": "J. Chem. Inf. Model.",
     "PMID": "23088335",
     "id": "s0DwyFkv",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci300415d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: s0DwyFkv"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci300415d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: s0DwyFkv\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3149,7 +3149,7 @@
     "container-title-short": "J. Chem. Inf. Model.",
     "PMID": "25558886",
     "id": "bOvsdNwM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci500588j\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: bOvsdNwM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/ci500588j\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: bOvsdNwM\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3197,7 +3197,7 @@
     "container-title-short": "J. Med. Chem.",
     "PMID": "22409666",
     "id": "AgXAAdfd",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/jm201649s\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: AgXAAdfd"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/jm201649s\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: AgXAAdfd\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3250,7 +3250,7 @@
     "PMCID": "PMC3856222",
     "PMID": "23947912",
     "id": "ET2mMDNi",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/np4004307\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ET2mMDNi"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/np4004307\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ET2mMDNi\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3347,7 +3347,7 @@
     "PMCID": "PMC4784093",
     "PMID": "24617915",
     "id": "11iNHyBSR",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/np4009706\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 11iNHyBSR"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/np4009706\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 11iNHyBSR\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3385,7 +3385,7 @@
     "URL": "https://doi.org/bp3v9z",
     "container-title-short": "J. Nat. Prod.",
     "id": "LVdp6gjb",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/np50004a001\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: LVdp6gjb"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/np50004a001\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: LVdp6gjb\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Chemical Society (ACS)",
@@ -3422,7 +3422,7 @@
     "PMCID": "PMC3766387",
     "PMID": "23808827",
     "id": "1A8e7sXs0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/pr400230p\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1A8e7sXs0"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1021/pr400230p\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1A8e7sXs0\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -3457,7 +3457,7 @@
     "container-title-short": "Nature",
     "PMID": "12015570",
     "id": "wXVoM52J",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/417222b\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: wXVoM52J"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/417222b\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: wXVoM52J\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -3492,7 +3492,7 @@
     "container-title-short": "Nature",
     "PMID": "21368810",
     "id": "iGDHR5Ef",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/471037d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: iGDHR5Ef"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/471037d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: iGDHR5Ef\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -3535,7 +3535,7 @@
     "container-title-short": "Nature",
     "PMID": "31164773",
     "id": "xf44BZw9",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/d41586-019-01715-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: xf44BZw9"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/d41586-019-01715-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: xf44BZw9\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -3735,7 +3735,7 @@
     "PMCID": "PMC3471674",
     "PMID": "23051804",
     "id": "SdcAgRbx",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nbt.2377\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: SdcAgRbx"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nbt.2377\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: SdcAgRbx\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4271,7 +4271,7 @@
     "PMCID": "PMC5321674",
     "PMID": "27504778",
     "id": "dradflfa",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nbt.3597\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: dradflfa"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nbt.3597\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: dradflfa\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4296,7 +4296,7 @@
     "container-title-short": "Nat Chem Biol",
     "PMID": "17576412",
     "id": "hd3vl6GL",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nchembio0707-351\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: hd3vl6GL"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nchembio0707-351\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: hd3vl6GL\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4325,7 +4325,7 @@
     "URL": "https://doi.org/gnkn6x",
     "container-title-short": "Nat Prec",
     "id": "10kj3MKcw",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/npre.2008.1526.1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 10kj3MKcw"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/npre.2008.1526.1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 10kj3MKcw\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4381,7 +4381,7 @@
     "container-title-short": "Nat Rev Drug Discov",
     "PMID": "20168317",
     "id": "vurqWPFt",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nrd3078\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vurqWPFt"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nrd3078\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vurqWPFt\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4421,7 +4421,7 @@
     "container-title-short": "Nat Rev Drug Discov",
     "PMID": "25614221",
     "id": "zijoVhbn",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nrd4510\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zijoVhbn"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/nrd4510\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zijoVhbn\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4485,7 +4485,7 @@
     "PMCID": "PMC5824889",
     "PMID": "29476047",
     "id": "s9YU2Yga",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41467-018-03184-1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: s9YU2Yga"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41467-018-03184-1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: s9YU2Yga\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4526,7 +4526,7 @@
     "PMCID": "PMC7595127",
     "PMID": "33116149",
     "id": "Wo6cp6FE",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41467-020-19160-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Wo6cp6FE"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41467-020-19160-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Wo6cp6FE\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4598,7 +4598,7 @@
     "container-title-short": "Nat Biotechnol",
     "PMID": "33230292",
     "id": "Ypnpj4wt",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41587-020-0740-8\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Ypnpj4wt"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41587-020-0740-8\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Ypnpj4wt\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4664,7 +4664,7 @@
     "PMCID": "PMC8926923",
     "PMID": "34650271",
     "id": "C1uH2ilR",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41587-021-01045-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: C1uH2ilR"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41587-021-01045-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: C1uH2ilR\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4728,7 +4728,7 @@
     "container-title-short": "Nat Methods",
     "PMID": "30886413",
     "id": "12PDwyYCr",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-019-0344-8\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 12PDwyYCr"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-019-0344-8\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 12PDwyYCr\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -4820,7 +4820,7 @@
     "container-title-short": "Nat Methods",
     "PMID": "30923379",
     "id": "1Fi8xKPJ8",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-019-0358-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1Fi8xKPJ8"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-019-0358-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1Fi8xKPJ8\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5295,7 +5295,7 @@
     "PMCID": "PMC7056644",
     "PMID": "32015543",
     "id": "8Miti2Gz",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-019-0686-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8Miti2Gz"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-019-0686-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8Miti2Gz\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5501,7 +5501,7 @@
     "PMCID": "PMC7968862",
     "PMID": "32807955",
     "id": "vgWLelZQ",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-020-0916-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vgWLelZQ"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41592-020-0916-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vgWLelZQ\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5605,7 +5605,7 @@
     "PMCID": "PMC7224370",
     "PMID": "32409645",
     "id": "MMp6cQ1x",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41597-020-0486-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: MMp6cQ1x"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41597-020-0486-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: MMp6cQ1x\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5665,7 +5665,7 @@
     "PMCID": "PMC5543130",
     "PMID": "28775335",
     "id": "1EBJWvXBS",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-017-07451-x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EBJWvXBS"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-017-07451-x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EBJWvXBS\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5718,7 +5718,7 @@
     "PMCID": "PMC7118164",
     "PMID": "32242073",
     "id": "19mexYMhO",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-020-62573-z\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 19mexYMhO"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-020-62573-z\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 19mexYMhO\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5755,7 +5755,7 @@
     "PMCID": "PMC8050247",
     "PMID": "33859284",
     "id": "8sNOa0nm",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-021-87796-6\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8sNOa0nm"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-021-87796-6\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8sNOa0nm\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -5820,7 +5820,7 @@
     "PMCID": "PMC8782903",
     "PMID": "35064132",
     "id": "1HShci7Ed",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-022-04975-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1HShci7Ed"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s41598-022-04975-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1HShci7Ed\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -6060,7 +6060,7 @@
     "PMCID": "PMC4792175",
     "PMID": "26978244",
     "id": "6DjakjNS",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/sdata.2016.18\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 6DjakjNS"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/sdata.2016.18\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 6DjakjNS\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -6132,7 +6132,7 @@
     "PMCID": "PMC6244190",
     "PMID": "30457573",
     "id": "IN34cxcI",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/sdata.2018.259\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: IN34cxcI"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/sdata.2018.259\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: IN34cxcI\nsource_bibliography: references.json"
   },
   {
     "publisher": "Royal Society of Chemistry (RSC)",
@@ -6167,7 +6167,7 @@
     "container-title-short": "Nat. Prod. Rep.",
     "PMID": "25850681",
     "id": "E2rhma47",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c4np00134f\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: E2rhma47"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c4np00134f\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: E2rhma47\nsource_bibliography: references.json"
   },
   {
     "publisher": "Royal Society of Chemistry (RSC)",
@@ -6202,7 +6202,7 @@
     "container-title-short": "Analyst",
     "PMID": "27722450",
     "id": "BMt75r6R",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c6an01753c\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: BMt75r6R"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c6an01753c\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: BMt75r6R\nsource_bibliography: references.json"
   },
   {
     "publisher": "Royal Society of Chemistry (RSC)",
@@ -6258,7 +6258,7 @@
     "PMCID": "PMC5001890",
     "PMID": "27197893",
     "id": "3cUZctro",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c6np00022c\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 3cUZctro"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c6np00022c\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 3cUZctro\nsource_bibliography: references.json"
   },
   {
     "publisher": "Royal Society of Chemistry (RSC)",
@@ -6313,7 +6313,7 @@
     "container-title-short": "Chem. Soc. Rev.",
     "PMID": "29114668",
     "id": "bZok03zj",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c7cs00368d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: bZok03zj"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c7cs00368d\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: bZok03zj\nsource_bibliography: references.json"
   },
   {
     "publisher": "Royal Society of Chemistry (RSC)",
@@ -6633,7 +6633,7 @@
     "PMCID": "PMC6350634",
     "PMID": "30003207",
     "id": "R6AOorG5",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c7np00064b\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: R6AOorG5"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/c7np00064b\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: R6AOorG5\nsource_bibliography: references.json"
   },
   {
     "publisher": "Royal Society of Chemistry (RSC)",
@@ -6679,7 +6679,7 @@
     "URL": "https://doi.org/ghxp29",
     "container-title-short": "RSC Adv.",
     "id": "dyiEPToF",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/d0ra10453a\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: dyiEPToF"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1039/d0ra10453a\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: dyiEPToF\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -6708,7 +6708,7 @@
     },
     "URL": "https://doi.org/dkg97q",
     "id": "1bhfObov",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1046/j.1365-2664.2003.00803.x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1bhfObov"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1046/j.1365-2664.2003.00803.x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1bhfObov\nsource_bibliography: references.json"
   },
   {
     "publisher": "Georg Thieme Verlag KG",
@@ -6740,7 +6740,7 @@
     "container-title-short": "Planta Med",
     "PMID": "19145552",
     "id": "142UNBrmA",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0028-1088393\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 142UNBrmA"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0028-1088393\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 142UNBrmA\nsource_bibliography: references.json"
   },
   {
     "publisher": "© Georg Thieme Verlag KG",
@@ -6782,7 +6782,7 @@
     },
     "URL": "https://doi.org/gqhr95",
     "id": "KSPQzY9P",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0039-3399843\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: KSPQzY9P"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0039-3399843\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: KSPQzY9P\nsource_bibliography: references.json"
   },
   {
     "publisher": "Georg Thieme Verlag",
@@ -6864,7 +6864,7 @@
     },
     "URL": "https://doi.org/gqhr96",
     "id": "oLMDAfYG",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0041-1736777\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: oLMDAfYG"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0041-1736777\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: oLMDAfYG\nsource_bibliography: references.json"
   },
   {
     "publisher": "Georg Thieme Verlag",
@@ -6906,7 +6906,7 @@
     },
     "URL": "https://doi.org/gqhr97",
     "id": "yQXPWBmN",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0041-1736968\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yQXPWBmN"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1055/s-0041-1736968\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yQXPWBmN\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -6941,7 +6941,7 @@
     "URL": "https://doi.org/ghd6kb",
     "container-title-short": "Palgrave Commun",
     "id": "NvUorDwZ",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1057/s41599-020-0390-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: NvUorDwZ"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1057/s41599-020-0390-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: NvUorDwZ\nsource_bibliography: references.json"
   },
   {
     "publisher": "Proceedings of the National Academy of Sciences",
@@ -7011,7 +7011,7 @@
     "PMCID": "PMC7826413",
     "PMID": "33431671",
     "id": "ToSx7lEy",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1073/pnas.2013344118\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ToSx7lEy"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1073/pnas.2013344118\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ToSx7lEy\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7060,7 +7060,7 @@
     "PMCID": "PMC2638865",
     "PMID": "18596077",
     "id": "zukFZ2aq",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btn307\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zukFZ2aq"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btn307\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zukFZ2aq\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7104,7 +7104,7 @@
     "PMCID": "PMC2639009",
     "PMID": "19015140",
     "id": "e4LOAf7r",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btn603\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: e4LOAf7r"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btn603\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: e4LOAf7r\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7153,7 +7153,7 @@
     "PMCID": "PMC2951090",
     "PMID": "20829444",
     "id": "WRJsojww",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btq476\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WRJsojww"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btq476\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WRJsojww\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7194,7 +7194,7 @@
     "URL": "https://doi.org/gcmhc5",
     "PMID": "29186333",
     "id": "VMUBsFFG",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btx760\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: VMUBsFFG"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btx760\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: VMUBsFFG\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7241,7 +7241,7 @@
     "URL": "https://doi.org/gd9mpt",
     "PMID": "30423079",
     "id": "sRymxO5X",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/bty590\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: sRymxO5X"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/bty590\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: sRymxO5X\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7314,7 +7314,7 @@
     "PMCID": "PMC3792339",
     "PMID": "24103452",
     "id": "9GVjNRag",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/database/bat070\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 9GVjNRag"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/database/bat070\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 9GVjNRag\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7344,7 +7344,7 @@
     "PMCID": "PMC5574413",
     "PMID": "28365725",
     "id": "FzUbylmA",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/database/bax004\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: FzUbylmA"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/database/bax004\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: FzUbylmA\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7439,7 +7439,7 @@
     "PMCID": "PMC8382893",
     "PMID": "34097064",
     "id": "1GRbuEDX1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/molbev/msab166\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1GRbuEDX1"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/molbev/msab166\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1GRbuEDX1\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7530,7 +7530,7 @@
     "PMCID": "PMC6993851",
     "PMID": "31633786",
     "id": "1EloBUtuI",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/molbev/msz240\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EloBUtuI"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/molbev/msz240\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EloBUtuI\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7627,7 +7627,7 @@
     "PMCID": "PMC7779061",
     "PMID": "33211851",
     "id": "pzgOjFLZ",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkaa1024\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pzgOjFLZ"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkaa1024\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pzgOjFLZ\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7708,7 +7708,7 @@
     "PMCID": "PMC7778930",
     "PMID": "33151290",
     "id": "vXmZYPY0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkaa971\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vXmZYPY0"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkaa971\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vXmZYPY0\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7800,7 +7800,7 @@
     "URL": "https://doi.org/gnvf3t",
     "PMID": "34718710",
     "id": "vmAI2Yi1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkab941\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vmAI2Yi1"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkab941\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vmAI2Yi1\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7841,7 +7841,7 @@
     "PMCID": "PMC3245093",
     "PMID": "22144683",
     "id": "16co3gnIn",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkr1195\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16co3gnIn"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkr1195\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16co3gnIn\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7889,7 +7889,7 @@
     "PMCID": "PMC4086103",
     "PMID": "24895432",
     "id": "uJvoFLjw",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gku436\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: uJvoFLjw"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gku436\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: uJvoFLjw\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -7962,7 +7962,7 @@
     "PMCID": "PMC4702922",
     "PMID": "26615197",
     "id": "15rL9Psbo",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkv1319\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15rL9Psbo"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkv1319\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15rL9Psbo\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8007,7 +8007,7 @@
     "PMCID": "PMC4489244",
     "PMID": "25934803",
     "id": "icLEZ49v",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkv396\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: icLEZ49v"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkv396\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: icLEZ49v\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8091,7 +8091,7 @@
     "PMCID": "PMC5753227",
     "PMID": "29106619",
     "id": "4RKmYOPE",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkx1026\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 4RKmYOPE"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkx1026\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 4RKmYOPE\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8155,7 +8155,7 @@
     "PMCID": "PMC5753269",
     "PMID": "29106626",
     "id": "yJZjE7TJ",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkx1061\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yJZjE7TJ"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkx1061\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: yJZjE7TJ\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8271,7 +8271,7 @@
     "PMCID": "PMC5753270",
     "PMID": "29136241",
     "id": "1CVZzR5SC",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkx1064\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1CVZzR5SC"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkx1064\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1CVZzR5SC\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8351,7 +8351,7 @@
     "PMCID": "PMC6324075",
     "PMID": "30371825",
     "id": "1BsHixMtu",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gky1033\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1BsHixMtu"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gky1033\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1BsHixMtu\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8399,7 +8399,7 @@
     "PMCID": "PMC6030920",
     "PMID": "29718389",
     "id": "nmEacTGa",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gky294\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: nmEacTGa"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gky294\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: nmEacTGa\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8453,7 +8453,7 @@
     "PMCID": "PMC7145518",
     "PMID": "31691833",
     "id": "1D8ShigK1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkz1019\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1D8ShigK1"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkz1019\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1D8ShigK1\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8563,7 +8563,7 @@
     "PMCID": "PMC7145714",
     "PMID": "31612915",
     "id": "F5HJbaQH",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkz882\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: F5HJbaQH"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkz882\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: F5HJbaQH\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -8638,7 +8638,7 @@
     "URL": "https://doi.org/cstrnq",
     "PMID": "22123792",
     "id": "pIM4qxZA",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/pcp/pcr165\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pIM4qxZA"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/pcp/pcr165\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: pIM4qxZA\nsource_bibliography: references.json"
   },
   {
     "publisher": "Cold Spring Harbor Laboratory",
@@ -8696,7 +8696,7 @@
     },
     "URL": "https://doi.org/gjjcd3",
     "id": "OceiRpiP",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2021.03.18.435634\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: OceiRpiP"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2021.03.18.435634\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: OceiRpiP\nsource_bibliography: references.json"
   },
   {
     "publisher": "Cold Spring Harbor Laboratory",
@@ -8794,7 +8794,7 @@
     },
     "URL": "https://doi.org/gqh949",
     "id": "oieMyhqL",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2022.07.08.499378\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: oieMyhqL"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/2022.07.08.499378\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: oieMyhqL\nsource_bibliography: references.json"
   },
   {
     "publisher": "Cold Spring Harbor Laboratory",
@@ -8859,7 +8859,7 @@
     "PMCID": "PMC403769",
     "PMID": "14597658",
     "id": "1BJixYIRV",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/gr.1239303\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1BJixYIRV"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1101/gr.1239303\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1BJixYIRV\nsource_bibliography: references.json"
   },
   {
     "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
@@ -8887,7 +8887,7 @@
     "URL": "https://doi.org/drbjhg",
     "container-title-short": "Comput. Sci. Eng.",
     "id": "1026Gxdsi",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1109/mcse.2007.55\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1026Gxdsi"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1109/mcse.2007.55\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1026Gxdsi\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -8932,7 +8932,7 @@
     "URL": "https://doi.org/f9jgkm",
     "container-title-short": "Methods Ecol Evol",
     "id": "hPmhpanN",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/2041-210x.12593\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: hPmhpanN"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/2041-210x.12593\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: hPmhpanN\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -8985,7 +8985,7 @@
     "URL": "https://doi.org/f9qv8x",
     "container-title-short": "Methods Ecol Evol",
     "id": "YdA5Ivd8",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/2041-210x.12628\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: YdA5Ivd8"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/2041-210x.12628\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: YdA5Ivd8\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -9023,7 +9023,7 @@
     "URL": "https://doi.org/fb2c4q",
     "container-title-short": "Divers Distrib",
     "id": "mK9D5xAO",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/j.1366-9516.2006.00234.x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: mK9D5xAO"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/j.1366-9516.2006.00234.x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: mK9D5xAO\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -9055,7 +9055,7 @@
     "container-title-short": "New Phytol",
     "PMID": "28134431",
     "id": "1Ck6coooY",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/nph.14438\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1Ck6coooY"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/nph.14438\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1Ck6coooY\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -9112,7 +9112,7 @@
     "container-title-short": "Plant J",
     "PMID": "30786088",
     "id": "1FJvzrBCS",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/tpj.14292\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1FJvzrBCS"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/tpj.14292\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1FJvzrBCS\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Association for the Advancement of Science (AAAS)",
@@ -9149,7 +9149,7 @@
     "container-title-short": "Science",
     "PMID": "19589993",
     "id": "Xv73UUft",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1126/science.1168243\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Xv73UUft"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1126/science.1168243\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Xv73UUft\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Association for the Advancement of Science (AAAS)",
@@ -9181,7 +9181,7 @@
     "container-title-short": "Science",
     "PMID": "2569237",
     "id": "6E7EBwIr",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1126/science.2569237\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 6E7EBwIr"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1126/science.2569237\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 6E7EBwIr\nsource_bibliography: references.json"
   },
   {
     "publisher": "American Society for Microbiology",
@@ -9222,7 +9222,7 @@
     "PMCID": "PMC202703",
     "PMID": "3415225",
     "id": "15LkbJDMC",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1128/aem.54.6.1602-1605.1988\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15LkbJDMC"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1128/aem.54.6.1602-1605.1988\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15LkbJDMC\nsource_bibliography: references.json"
   },
   {
     "publisher": "Annual Reviews",
@@ -9259,7 +9259,7 @@
     "container-title-short": "Annu. Rev. Plant Biol.",
     "PMID": "21275647",
     "id": "ebV0HdMd",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1146/annurev-arplant-042110-103814\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ebV0HdMd"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1146/annurev-arplant-042110-103814\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ebV0HdMd\nsource_bibliography: references.json"
   },
   {
     "publisher": "Annual Reviews",
@@ -9295,7 +9295,7 @@
     "URL": "https://doi.org/gftqcm",
     "container-title-short": "Annu. Rev. Ecol. Evol. Syst.",
     "id": "1Hc8Xn2Ff",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1146/annurev-ecolsys-110617-062406\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1Hc8Xn2Ff"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1146/annurev-ecolsys-110617-062406\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1Hc8Xn2Ff\nsource_bibliography: references.json"
   },
   {
     "publisher": "Hindawi Limited",
@@ -9346,7 +9346,7 @@
     "PMCID": "PMC5253511",
     "PMID": "28164123",
     "id": "11UOZO3kC",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1155/2017/5296729\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 11UOZO3kC"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1155/2017/5296729\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 11UOZO3kC\nsource_bibliography: references.json"
   },
   {
     "publisher": "Magnolia Press",
@@ -9381,7 +9381,7 @@
     "URL": "https://doi.org/gfzn5m",
     "container-title-short": "Phytotaxa",
     "id": "QoK2axZk",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.11646/phytotaxa.261.3.1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: QoK2axZk"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.11646/phytotaxa.261.3.1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: QoK2axZk\nsource_bibliography: references.json"
   },
   {
     "publisher": "SAGE Publications",
@@ -9412,7 +9412,7 @@
     "URL": "https://doi.org/gh5pth",
     "container-title-short": "Natural Product Communications",
     "id": "NtzQIgT9",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1177/1934578x1701200849\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: NtzQIgT9"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1177/1934578x1701200849\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: NtzQIgT9\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9456,7 +9456,7 @@
     "PMCID": "PMC2918584",
     "PMID": "20650010",
     "id": "zgNEemBp",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-11-395\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zgNEemBp"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-11-395\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zgNEemBp\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9492,7 +9492,7 @@
     "PMCID": "PMC1851972",
     "PMID": "17389044",
     "id": "4wFJaW8S",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-8-105\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 4wFJaW8S"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-8-105\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 4wFJaW8S\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9537,7 +9537,7 @@
     "PMCID": "PMC1838434",
     "PMID": "17362505",
     "id": "T7EIo08E",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-8-93\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: T7EIo08E"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-8-93\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: T7EIo08E\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9585,7 +9585,7 @@
     "PMCID": "PMC3599061",
     "PMID": "23343401",
     "id": "AP6h5CYA",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1758-2946-5-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: AP6h5CYA"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1758-2946-5-7\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: AP6h5CYA\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9637,7 +9637,7 @@
     "PMCID": "PMC4882832",
     "PMID": "27230105",
     "id": "Pf1Puxxg",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12866-016-0715-6\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Pf1Puxxg"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12866-016-0715-6\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Pf1Puxxg\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9717,7 +9717,7 @@
     "PMCID": "PMC4172869",
     "PMID": "25224438",
     "id": "16mSGZn7C",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12870-014-0243-1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16mSGZn7C"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12870-014-0243-1\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16mSGZn7C\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9765,7 +9765,7 @@
     "PMCID": "PMC4495939",
     "PMID": "26156871",
     "id": "a48CrnhC",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12906-015-0758-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: a48CrnhC"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12906-015-0758-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: a48CrnhC\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9827,7 +9827,7 @@
     "PMCID": "PMC4206768",
     "PMID": "25360160",
     "id": "GFBBPIgV",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-014-0046-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: GFBBPIgV"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-014-0046-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: GFBBPIgV\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9883,7 +9883,7 @@
     "PMCID": "PMC4471313",
     "PMID": "26097510",
     "id": "ZRFusbLt",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-015-0080-8\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ZRFusbLt"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-015-0080-8\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ZRFusbLt\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -9931,7 +9931,7 @@
     "PMCID": "PMC4732001",
     "PMID": "26834843",
     "id": "QrQTtTI2",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-016-0115-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: QrQTtTI2"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-016-0115-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: QrQTtTI2\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10007,7 +10007,7 @@
     "PMCID": "PMC5096306",
     "PMID": "27867422",
     "id": "1GFQixHzv",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-016-0174-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1GFQixHzv"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-016-0174-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1GFQixHzv\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10091,7 +10091,7 @@
     "PMCID": "PMC5267755",
     "PMID": "28184254",
     "id": "1DPlqketM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-016-0188-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1DPlqketM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-016-0188-5\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1DPlqketM\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10175,7 +10175,7 @@
     "PMCID": "PMC5461230",
     "PMID": "29086040",
     "id": "xpBWVpji",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-017-0220-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: xpBWVpji"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-017-0220-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: xpBWVpji\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10215,7 +10215,7 @@
     "PMCID": "PMC5966370",
     "PMID": "29797000",
     "id": "mjVvWLK2",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-018-0282-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: mjVvWLK2"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-018-0282-y\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: mjVvWLK2\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10256,7 +10256,7 @@
     "PMCID": "PMC6599361",
     "PMID": "31254167",
     "id": "13RtkyRi5",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-019-0367-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 13RtkyRi5"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-019-0367-2\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 13RtkyRi5\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10293,7 +10293,7 @@
     "PMCID": "PMC7118820",
     "PMID": "33431011",
     "id": "R06ZE1xj",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-00424-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: R06ZE1xj"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-00424-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: R06ZE1xj\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10334,7 +10334,7 @@
     "PMCID": "PMC7291580",
     "PMID": "33431010",
     "id": "2HOkPhmh",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-00445-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 2HOkPhmh"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-00445-4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 2HOkPhmh\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10383,7 +10383,7 @@
     "PMCID": "PMC7798278",
     "PMID": "33423696",
     "id": "16ijqhOBz",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-00478-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16ijqhOBz"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-00478-9\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 16ijqhOBz\nsource_bibliography: references.json"
   },
   {
     "publisher": "Springer Science and Business Media LLC",
@@ -10420,7 +10420,7 @@
     "PMCID": "PMC7015965",
     "PMID": "33431043",
     "id": "1DcpY38I1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-0416-x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1DcpY38I1"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s13321-020-0416-x\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1DcpY38I1\nsource_bibliography: references.json"
   },
   {
     "publisher": "Public Library of Science (PLoS)",
@@ -10461,7 +10461,7 @@
     "PMCID": "PMC5104318",
     "PMID": "27832061",
     "id": "18PujMmok",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1005128\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 18PujMmok"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1005128\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 18PujMmok\nsource_bibliography: references.json"
   },
   {
     "publisher": "Public Library of Science (PLoS)",
@@ -10536,7 +10536,7 @@
     "PMCID": "PMC5927460",
     "PMID": "29668671",
     "id": "WiUpzSgf",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1006089\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WiUpzSgf"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1006089\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WiUpzSgf\nsource_bibliography: references.json"
   },
   {
     "publisher": "Public Library of Science (PLoS)",
@@ -10599,7 +10599,7 @@
     "PMCID": "PMC6611653",
     "PMID": "31233491",
     "id": "YuJbg3zO",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1007128\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: YuJbg3zO"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1007128\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: YuJbg3zO\nsource_bibliography: references.json"
   },
   {
     "publisher": "Public Library of Science (PLoS)",
@@ -10658,7 +10658,7 @@
     "PMCID": "PMC3636197",
     "PMID": "23638153",
     "id": "W6BmnntI",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pone.0062839\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: W6BmnntI"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pone.0062839\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: W6BmnntI\nsource_bibliography: references.json"
   },
   {
     "publisher": "Public Library of Science (PLoS)",
@@ -10705,7 +10705,7 @@
     "PMCID": "PMC4366147",
     "PMID": "25790025",
     "id": "iFXju5sG",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pone.0118747\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: iFXju5sG"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pone.0118747\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: iFXju5sG\nsource_bibliography: references.json"
   },
   {
     "publisher": "Oxford University Press (OUP)",
@@ -10734,7 +10734,7 @@
     },
     "URL": "https://doi.org/bpn2sz",
     "id": "WQSjq4nn",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1525/bio.2011.61.12.4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WQSjq4nn"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.1525/bio.2011.61.12.4\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: WQSjq4nn\nsource_bibliography: references.json"
   },
   {
     "publisher": "Foundation for Open Access Statistic",
@@ -10778,7 +10778,7 @@
     "URL": "https://doi.org/gh5ptf",
     "container-title-short": "J. Stat. Soft.",
     "id": "kM2kraS2",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.18637/jss.v093.i13\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: kM2kraS2"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.18637/jss.v093.i13\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: kM2kraS2\nsource_bibliography: references.json"
   },
   {
     "publisher": "The Open Journal",
@@ -10900,7 +10900,7 @@
     "URL": "https://doi.org/ggddkj",
     "container-title-short": "JOSS",
     "id": "EWll2pyF",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.21105/joss.01686\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: EWll2pyF"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.21105/joss.01686\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: EWll2pyF\nsource_bibliography: references.json"
   },
   {
     "publisher": "The Open Journal",
@@ -10930,7 +10930,7 @@
     "URL": "https://doi.org/gg4ghf",
     "container-title-short": "JOSS",
     "id": "13wsG3vmM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.21105/joss.02017\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 13wsG3vmM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.21105/joss.02017\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 13wsG3vmM\nsource_bibliography: references.json"
   },
   {
     "publisher": "Elsevier BV",
@@ -11016,7 +11016,7 @@
     "URL": "https://doi.org/gqh95b",
     "container-title-short": "SSRN Journal",
     "id": "MEPA635j",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.2139/ssrn.3996393\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: MEPA635j"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.2139/ssrn.3996393\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: MEPA635j\nsource_bibliography: references.json"
   },
   {
     "publisher": "Sociedade Brasileira de Quimica (SBQ)",
@@ -11073,7 +11073,7 @@
     "URL": "https://doi.org/gjqd88",
     "container-title-short": "J. Braz. Chem. Soc.",
     "id": "15AJlwFUA",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.21577/0103-5053.20180221\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15AJlwFUA"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.21577/0103-5053.20180221\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15AJlwFUA\nsource_bibliography: references.json"
   },
   {
     "publisher": "Wiley",
@@ -11115,7 +11115,7 @@
     "URL": "https://doi.org/cswg5m",
     "container-title-short": "Taxon",
     "id": "Dww34r1r",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.2307/25065905\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Dww34r1r"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.2307/25065905\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Dww34r1r\nsource_bibliography: references.json"
   },
   {
     "publisher": "Informa UK Limited",
@@ -11151,7 +11151,7 @@
     "container-title-short": "Pharmaceutical Biology",
     "PMID": "20681755",
     "id": "DxauscHA",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3109/13880209.2010.497815\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: DxauscHA"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3109/13880209.2010.497815\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: DxauscHA\nsource_bibliography: references.json"
   },
   {
     "publisher": "The R Foundation",
@@ -11180,7 +11180,7 @@
     "URL": "https://doi.org/ghfr9v",
     "container-title-short": "The R Journal",
     "id": "LmFzkeBM",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.32614/rj-2014-011\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: LmFzkeBM"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.32614/rj-2014-011\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: LmFzkeBM\nsource_bibliography: references.json"
   },
   {
     "publisher": "The R Foundation",
@@ -11209,7 +11209,7 @@
     "URL": "https://doi.org/gh5ptg",
     "container-title-short": "The R Journal",
     "id": "13ZrxSjw4",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.32614/rj-2017-058\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 13ZrxSjw4"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.32614/rj-2017-058\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 13ZrxSjw4\nsource_bibliography: references.json"
   },
   {
     "publisher": "Frontiers Media SA",
@@ -11299,7 +11299,7 @@
     "PMCID": "PMC6615404",
     "PMID": "31333695",
     "id": "Hx5kRRVc",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2019.00846\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Hx5kRRVc"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2019.00846\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Hx5kRRVc\nsource_bibliography: references.json"
   },
   {
     "publisher": "Frontiers Media SA",
@@ -11365,7 +11365,7 @@
     "PMCID": "PMC6824209",
     "PMID": "31708947",
     "id": "1EaGvQl0B",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2019.01329\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EaGvQl0B"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2019.01329\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EaGvQl0B\nsource_bibliography: references.json"
   },
   {
     "publisher": "Frontiers Media SA",
@@ -11431,7 +11431,7 @@
     "PMCID": "PMC7468465",
     "PMID": "32973846",
     "id": "146G6ZmRr",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2020.01287\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 146G6ZmRr"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2020.01287\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 146G6ZmRr\nsource_bibliography: references.json"
   },
   {
     "publisher": "MDPI AG",
@@ -11477,7 +11477,7 @@
     "PMCID": "PMC6358837",
     "PMID": "30658522",
     "id": "Ue7W1SPi",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/biom9010031\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Ue7W1SPi"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/biom9010031\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Ue7W1SPi\nsource_bibliography: references.json"
   },
   {
     "publisher": "MDPI AG",
@@ -11543,7 +11543,7 @@
     "PMCID": "PMC8391235",
     "PMID": "34439134",
     "id": "1meD0Plu",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/cancers13163978\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1meD0Plu"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/cancers13163978\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1meD0Plu\nsource_bibliography: references.json"
   },
   {
     "publisher": "MDPI AG",
@@ -11605,7 +11605,7 @@
     "PMCID": "PMC8235637",
     "PMID": "34208775",
     "id": "15nMohZTF",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/ijms22126467\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15nMohZTF"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/ijms22126467\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 15nMohZTF\nsource_bibliography: references.json"
   },
   {
     "publisher": "MDPI AG",
@@ -11663,7 +11663,7 @@
     "PMCID": "PMC8619139",
     "PMID": "34822449",
     "id": "1E6BoTlEj",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/metabo11110791\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1E6BoTlEj"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/metabo11110791\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1E6BoTlEj\nsource_bibliography: references.json"
   },
   {
     "publisher": "MDPI AG",
@@ -11729,7 +11729,7 @@
     "PMCID": "PMC6523630",
     "PMID": "31013937",
     "id": "14f2rmtld",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/metabo9040072\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 14f2rmtld"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/metabo9040072\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 14f2rmtld\nsource_bibliography: references.json"
   },
   {
     "publisher": "Pensoft Publishers",
@@ -11764,7 +11764,7 @@
     "PMCID": "PMC5515096",
     "PMID": "28765728",
     "id": "1F083MXGq",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3897/bdj.5.e12581\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1F083MXGq"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3897/bdj.5.e12581\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1F083MXGq\nsource_bibliography: references.json"
   },
   {
     "publisher": "Pensoft Publishers",
@@ -11805,7 +11805,7 @@
     "URL": "https://doi.org/gf4vf5",
     "container-title-short": "RIO",
     "id": "ZG9WyHw3",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3897/rio.5.e35820\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ZG9WyHw3"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.3897/rio.5.e35820\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ZG9WyHw3\nsource_bibliography: references.json"
   },
   {
     "type": "article-journal",
@@ -11851,7 +11851,7 @@
     "publisher": "Zenodo",
     "title": "Scholia And Scientometrics With Wikidata",
     "URL": "https://doi.org/gj2xz8",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.1036595\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: jqMOfVhn"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.1036595\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: jqMOfVhn\nsource_bibliography: references.json"
   },
   {
     "type": "book",
@@ -11898,7 +11898,7 @@
     "title": "Scientific colour maps",
     "URL": "https://doi.org/gnm9fm",
     "version": "7.0.1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.1243862\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: f5bShnMm"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.1243862\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: f5bShnMm\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -11931,7 +11931,7 @@
     "title": "COCONUT: the COlleCtion of Open NatUral producTs.",
     "URL": "https://doi.org/gh6dqw",
     "version": "4",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.3778405\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EoPmmMQv"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.3778405\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1EoPmmMQv\nsource_bibliography: references.json"
   },
   {
     "type": "book",
@@ -12065,7 +12065,7 @@
     "title": "pandas-dev/pandas: Pandas 1.1.4",
     "URL": "https://doi.org/gh6dqz",
     "version": "v1.1.4",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.4161697\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zEc5CK8P"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.4161697\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: zEc5CK8P\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12107,7 +12107,7 @@
     "title": "ISDB: In Silico Spectral Databases of Natural Products",
     "URL": "https://doi.org/gnvf68",
     "version": "1.0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5607264\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 3nRVlUwz"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5607264\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 3nRVlUwz\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12149,7 +12149,7 @@
     "title": "The LOTUS Initiative for Open Natural Products Research: wikidata query results",
     "URL": "https://doi.org/gntk2p",
     "version": "1.1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5668854\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8T9M9XCu"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5668854\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 8T9M9XCu\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12191,7 +12191,7 @@
     "title": "The LOTUS Initiative for Open Natural Products Research: wikidata query results",
     "URL": "https://doi.org/gnvpjt",
     "version": "1.1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5793224\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: oLmBLBJE"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5793224\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: oLmBLBJE\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12228,7 +12228,7 @@
     "publisher": "Zenodo",
     "title": "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata)",
     "URL": "https://doi.org/gntk2q",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5794106\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: hSYcB5oO"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5794106\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: hSYcB5oO\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12265,7 +12265,7 @@
     "publisher": "Zenodo",
     "title": "The LOTUS Initiative for Open Natural Products Research: frozen dataset union wikidata (with metadata)",
     "URL": "https://doi.org/gnvpjv",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5794107\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ncNW1K0F"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5794107\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: ncNW1K0F\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12301,7 +12301,7 @@
     "publisher": "Zenodo",
     "title": "The LOTUS Initiative for Open Natural Products Research: waste to recycle",
     "URL": "https://doi.org/gnvf6z",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5794597\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 14nvCIi3w"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5794597\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 14nvCIi3w\nsource_bibliography: references.json"
   },
   {
     "type": "graphic",
@@ -12330,7 +12330,7 @@
     "publisher": "Zenodo",
     "title": "The LOTUS Initiative for Open Natural Products Research: TMAP",
     "URL": "https://doi.org/gnvnjd",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5801807\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vFWo4t5m"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5801807\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: vFWo4t5m\nsource_bibliography: references.json"
   },
   {
     "type": "dataset",
@@ -12358,7 +12358,7 @@
     "publisher": "Zenodo",
     "title": "The LOTUS Initiative for Open Natural Products Research: custom dictionaries",
     "URL": "https://doi.org/gnvnjf",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5801816\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: i7nSfCmf"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5801816\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: i7nSfCmf\nsource_bibliography: references.json"
   },
   {
     "type": "book",
@@ -12400,7 +12400,7 @@
     "title": "lotusnprod/lotus-processor: v1.0.0",
     "URL": "https://doi.org/gnvpjw",
     "version": "1.0.0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5802107\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: U9yGPOBt"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5802107\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: U9yGPOBt\nsource_bibliography: references.json"
   },
   {
     "type": "book",
@@ -12437,7 +12437,7 @@
     "title": "lotusnprod/lotus-wikidata-interact: v1.0.0",
     "URL": "https://doi.org/gnvpjx",
     "version": "1.0.0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5802113\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: X5hIz8Ev"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5802113\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: X5hIz8Ev\nsource_bibliography: references.json"
   },
   {
     "type": "book",
@@ -12477,7 +12477,7 @@
     "title": "lotusnprod/lotus-web: v1.0.0",
     "URL": "https://doi.org/gnvpjz",
     "version": "1.0.0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5802120\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 17Z1IrpvS"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.5802120\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 17Z1IrpvS\nsource_bibliography: references.json"
   },
   {
     "publisher": "Ubiquity Press, Ltd.",
@@ -12519,7 +12519,7 @@
     },
     "URL": "https://doi.org/gh533h",
     "id": "Ebuu5mfF",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5334/dsj-2019-009\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Ebuu5mfF"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.5334/dsj-2019-009\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Ebuu5mfF\nsource_bibliography: references.json"
   },
   {
     "publisher": "Biomedical Informatics",
@@ -12555,7 +12555,7 @@
     "PMCID": "PMC3053594",
     "PMID": "21423723",
     "id": "tPji342r",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.6026/97320630005361\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: tPji342r"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.6026/97320630005361\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: tPji342r\nsource_bibliography: references.json"
   },
   {
     "publisher": "eLife Sciences Publications, Ltd",
@@ -12702,7 +12702,7 @@
     "PMCID": "PMC7077981",
     "PMID": "32180547",
     "id": "HUodcdz1",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.52614\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: HUodcdz1"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.52614\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: HUodcdz1\nsource_bibliography: references.json"
   },
   {
     "publisher": "eLife Sciences Publications, Ltd",
@@ -12789,7 +12789,7 @@
     "PMCID": "PMC9135406",
     "PMID": "35616633",
     "id": "PYbwVCJ0",
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.70780\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: PYbwVCJ0"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.70780\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: PYbwVCJ0\nsource_bibliography: references.json"
   },
   {
     "id": "hR0edX6b",
@@ -12813,7 +12813,7 @@
     "title": "data.table: Extension of `data.frame`",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=data.table",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: dowleDataTableExtension2020\noriginal_id: hR0edX6b"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: dowleDataTableExtension2020\noriginal_id: hR0edX6b\nsource_bibliography: references.json"
   },
   {
     "id": "156ifmHvV",
@@ -12833,7 +12833,7 @@
     "title": "chorddiag: Interactive Chord Diagrams",
     "type": "book",
     "URL": "http://github.com/mattflor/chorddiag/",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: florChorddiagInteractiveChord2020\noriginal_id: 156ifmHvV"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: florChorddiagInteractiveChord2020\noriginal_id: 156ifmHvV\nsource_bibliography: references.json"
   },
   {
     "id": "12mR83H1T",
@@ -12853,7 +12853,7 @@
     "title": "R package stringi: Character string processing facilities",
     "type": "book",
     "URL": "http://www.gagolewski.com/software/stringi/",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: gagolewskiPackageStringiCharacter2020\noriginal_id: 12mR83H1T"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: gagolewskiPackageStringiCharacter2020\noriginal_id: 12mR83H1T\nsource_bibliography: references.json"
   },
   {
     "id": "T2D9o6RC",
@@ -12873,7 +12873,7 @@
     "title": "UpSetR: A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=UpSetR",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: gehlenborgUpSetRMoreScalable2019\noriginal_id: T2D9o6RC"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: gehlenborgUpSetRMoreScalable2019\noriginal_id: T2D9o6RC\nsource_bibliography: references.json"
   },
   {
     "id": "eOKkhMeJ",
@@ -12928,7 +12928,7 @@
         ]
       ]
     },
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: inenglishplease\noriginal_id: eOKkhMeJ"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: inenglishplease\noriginal_id: eOKkhMeJ\nsource_bibliography: references.json"
   },
   {
     "id": "5EvyK8hk",
@@ -12955,14 +12955,14 @@
         ]
       ]
     },
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: isbn:9780674016330\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 5EvyK8hk"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: isbn:9780674016330\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 5EvyK8hk\nsource_bibliography: references.json"
   },
   {
     "id": "2xuqwQ9S",
     "type": "report",
     "event-place": "Geneva",
     "language": "en",
-    "note": "WHO/UHC/SDS/2019.11\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: isbn:9789241506090\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 2xuqwQ9S",
+    "note": "WHO/UHC/SDS/2019.11\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: isbn:9789241506090\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 2xuqwQ9S\nsource_bibliography: references.json",
     "publisher": "World Health Organization",
     "publisher-place": "Geneva",
     "source": "WHO IRIS",
@@ -13018,7 +13018,7 @@
     "title": "pbmcapply: Tracking the Progress of Mc*pply with Progress Bar",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=pbmcapply",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: kuangPbmcapplyTrackingProgress2019\noriginal_id: XiPNsL5P"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: kuangPbmcapplyTrackingProgress2019\noriginal_id: XiPNsL5P\nsource_bibliography: references.json"
   },
   {
     "id": "TceFUyOp",
@@ -13038,7 +13038,7 @@
     "title": "XML: Tools for Parsing and Generating XML Within R and S-Plus",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=XML",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: langXMLToolsParsing2020\noriginal_id: TceFUyOp"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: langXMLToolsParsing2020\noriginal_id: TceFUyOp\nsource_bibliography: references.json"
   },
   {
     "id": "NfiSMvAq",
@@ -13058,7 +13058,7 @@
     "title": "splitstackshape: Stack and Reshape Datasets After Splitting Concatenated Values",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=splitstackshape",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: mahtoSplitstackshapeStackReshape2019\noriginal_id: NfiSMvAq"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: mahtoSplitstackshapeStackReshape2019\noriginal_id: NfiSMvAq\nsource_bibliography: references.json"
   },
   {
     "id": "LnilgHS9",
@@ -13091,7 +13091,7 @@
     "title": "RSQLite: 'SQLite' interface for r",
     "type": "report",
     "URL": "https://CRAN.R-project.org/package=RSQLite",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: mullerRSQLiteSQLiteInterface2021\noriginal_id: LnilgHS9"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: mullerRSQLiteSQLiteInterface2021\noriginal_id: LnilgHS9\nsource_bibliography: references.json"
   },
   {
     "id": "gdTufCbt",
@@ -13111,7 +13111,7 @@
     "title": "ggraph: An Implementation of Grammar of Graphics for Graphs and Networks",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=ggraph",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: pedersenGgraphImplementationGrammar2020\noriginal_id: gdTufCbt"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: pedersenGgraphImplementationGrammar2020\noriginal_id: gdTufCbt\nsource_bibliography: references.json"
   },
   {
     "id": "7JFonzW0",
@@ -13139,7 +13139,7 @@
     "title": "DBI: R database interface",
     "type": "report",
     "URL": "https://CRAN.R-project.org/package=DBI",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: rspecialinterestgroupondatabasesr-sig-dbDBIDatabaseInterface2021\noriginal_id: 7JFonzW0"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: rspecialinterestgroupondatabasesr-sig-dbDBIDatabaseInterface2021\noriginal_id: 7JFonzW0\nsource_bibliography: references.json"
   },
   {
     "id": "kVXkIA2g",
@@ -13161,13 +13161,13 @@
     "title": "Interactive Web-Based Data Visualization with R, plotly, and shiny",
     "type": "book",
     "URL": "https://plotly-r.com",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: sievertInteractiveWebBasedData2020\noriginal_id: kVXkIA2g"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: sievertInteractiveWebBasedData2020\noriginal_id: kVXkIA2g\nsource_bibliography: references.json"
   },
   {
     "id": "1APrBLQ3X",
     "type": "article",
     "abstract": "PhytoHub, an online platform to gather expert knowledge on polyphenols and other dietary phytochemicals. 8. International Conference on Polyphenols and Health (ICPH 2017)",
-    "note": "Published: 8. International Conference on Polyphenols and Health (ICPH 2017)\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://hal.archives-ouvertes.fr/hal-01697081\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1APrBLQ3X",
+    "note": "Published: 8. International Conference on Polyphenols and Health (ICPH 2017)\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://hal.archives-ouvertes.fr/hal-01697081\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1APrBLQ3X\nsource_bibliography: references.json",
     "source": "HAL Archives Ouvertes",
     "title": "PhytoHub, an online platform to gather expert knowledge on polyphenols and other dietary phytochemicals",
     "URL": "https://hal.archives-ouvertes.fr/hal-01697081",
@@ -13277,7 +13277,7 @@
         ]
       ]
     },
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://list.essentialmeds.org\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: OEKRamYT"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://list.essentialmeds.org\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: OEKRamYT\nsource_bibliography: references.json"
   },
   {
     "id": "14H8j2pB2",
@@ -13313,7 +13313,7 @@
         ]
       ]
     },
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2022\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 14H8j2pB2"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2022\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 14H8j2pB2\nsource_bibliography: references.json"
   },
   {
     "id": "upVor97",
@@ -13329,7 +13329,7 @@
         ]
       ]
     },
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.nature.com/subjects/drug-discovery\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: upVor97"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.nature.com/subjects/drug-discovery\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: upVor97\nsource_bibliography: references.json"
   },
   {
     "id": "COVJ2mvb",
@@ -13352,7 +13352,7 @@
         ]
       ]
     },
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/authorisations/new-medicines.html\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: COVJ2mvb"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/authorisations/new-medicines.html\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: COVJ2mvb\nsource_bibliography: references.json"
   },
   {
     "id": "1HYfg4fHd",
@@ -13375,7 +13375,7 @@
         ]
       ]
     },
-    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.swissmedic.ch/swissmedic/en/home/kpa/aktuell-kpa/neuzulassungen-kpa.html\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1HYfg4fHd"
+    "note": "This CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: url:https://www.swissmedic.ch/swissmedic/en/home/kpa/aktuell-kpa/neuzulassungen-kpa.html\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: 1HYfg4fHd\nsource_bibliography: references.json"
   },
   {
     "id": "7AFWc7sN",
@@ -13431,7 +13431,7 @@
     "title": "gdata: Various r programming tools for data manipulation",
     "type": "report",
     "URL": "https://CRAN.R-project.org/package=gdata",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: warnesGdataVariousProgramming2017\noriginal_id: 7AFWc7sN"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: warnesGdataVariousProgramming2017\noriginal_id: 7AFWc7sN\nsource_bibliography: references.json"
   },
   {
     "id": "xN7NElEK",
@@ -13455,7 +13455,7 @@
     "title": "readxl: Read Excel Files",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=readxl",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wickhamReadxlReadExcel2019\noriginal_id: xN7NElEK"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wickhamReadxlReadExcel2019\noriginal_id: xN7NElEK\nsource_bibliography: references.json"
   },
   {
     "id": "1ELrikmXF",
@@ -13475,7 +13475,7 @@
     "title": "rvest: Easily Harvest (Scrape) Web Pages",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=rvest",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wickhamRvestEasilyHarvest2020\noriginal_id: 1ELrikmXF"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wickhamRvestEasilyHarvest2020\noriginal_id: 1ELrikmXF\nsource_bibliography: references.json"
   },
   {
     "id": "2keqmgUs",
@@ -13504,12 +13504,12 @@
     "title": "xml2: Parse XML",
     "type": "report",
     "URL": "https://CRAN.R-project.org/package=xml2",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wickhamXml2ParseXML2020\noriginal_id: 2keqmgUs"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wickhamXml2ParseXML2020\noriginal_id: 2keqmgUs\nsource_bibliography: references.json"
   },
   {
     "id": "VNMRDIw3",
     "type": "article-journal",
-    "note": "QID: Q106204599\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: wikidata:Q106204599\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: VNMRDIw3",
+    "note": "QID: Q106204599\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: wikidata:Q106204599\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: VNMRDIw3\nsource_bibliography: references.json",
     "source": "Wikidata",
     "title": "RDFFrames: Knowledge Graph Access for Machine Learning Tools",
     "title-short": "RDFFrames",
@@ -13549,7 +13549,7 @@
   {
     "id": "Jdw1vygr",
     "type": "article-journal",
-    "note": "QID: Q106204620\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: wikidata:Q106204620\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Jdw1vygr",
+    "note": "QID: Q106204620\nThis CSL Item was generated by Manubot v0.5.2 from its persistent identifier (standard_id).\nstandard_id: wikidata:Q106204620\nLoaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\noriginal_id: Jdw1vygr\nsource_bibliography: references.json",
     "source": "Wikidata",
     "title": "The jsonlite Package: A Practical and Consistent Mapping Between JSON Data and R Objects",
     "title-short": "The jsonlite Package",
@@ -13588,7 +13588,7 @@
     "title": "ggfittext: Fit Text Inside a Box in 'ggplot2'",
     "type": "book",
     "URL": "https://CRAN.R-project.org/package=ggfittext",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wilkinsGgfittextFitText2020\noriginal_id: ejxxPICa"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: wilkinsGgfittextFitText2020\noriginal_id: ejxxPICa\nsource_bibliography: references.json"
   },
   {
     "id": "17NxHx9HG",
@@ -13609,6 +13609,6 @@
     "title": "ggstar: Star Layer for 'ggplot2'",
     "type": "report",
     "URL": "https://CRAN.R-project.org/package=ggstar",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: xuGgstarStarLayer2021\noriginal_id: 17NxHx9HG"
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.json\nstandard_id: xuGgstarStarLayer2021\noriginal_id: 17NxHx9HG\nsource_bibliography: references.json"
   }
 ]
