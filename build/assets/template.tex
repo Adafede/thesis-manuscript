@@ -115,9 +115,11 @@ $endif$
 \ifxetex
   \usepackage[setpagesize=false, % page size defined by xetex
               unicode=false, % unicode breaks when used with xetex
+              backref=page, % hack
               xetex]{hyperref}
 \else
-  \usepackage[unicode=true]{hyperref}
+  \usepackage[unicode=true,
+              backref=page]{hyperref}
 \fi
 \hypersetup{breaklinks=true,
             bookmarks=true,
