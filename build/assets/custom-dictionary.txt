@@ -732,6 +732,8 @@ Comesomatidae
 Commelinaceae
 Commidendrum
 complementarity
+Compositional
+compositional
 Compostela
 Conexibacteraceae
 Conidae
@@ -1121,6 +1123,7 @@ ethanolic
 ethnobotany
 ethnomedicine
 ethnopharmacological
+Ethnopharmacology
 Ethulia
 Etmopteridae
 EtOH
