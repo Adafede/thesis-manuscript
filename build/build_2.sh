@@ -48,3 +48,6 @@ output/manuscript.md \
 rm -rf ./images
 
 echo >&2 "Build complete"
+
+# insert before citeproc
+# --lua-filter=build/pandoc/filters/backlinks.lua

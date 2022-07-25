@@ -4,12 +4,12 @@
 from: markdown
 input-file: output/manuscript.md
 filters:
-- pandoc-fignos
-- pandoc-eqnos
-- pandoc-tablenos
-- pandoc-secnos
-- pandoc-manubot-cite
-- citeproc
+  - pandoc-fignos
+  - pandoc-eqnos
+  - pandoc-tablenos
+  - pandoc-secnos
+  - pandoc-manubot-cite
+  - citeproc
 wrap: preserve
 metadata:
   csl: build/assets/style.csl
