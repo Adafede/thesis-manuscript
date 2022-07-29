@@ -169,6 +169,7 @@ Anthracoideaceae
 anthraquinone
 anthraquinones
 antibase
+antidiabetic
 Antifungal
 antimarin
 Antipathidae
@@ -230,6 +231,7 @@ Arnica
 Arnoglossum
 Arripidae
 artefactual
+artifactual
 Artemiidae
 Artemisia
 Artemisinin
@@ -889,6 +891,7 @@ Davilanthus
 DBI
 DBs
 DCM
+DDA
 Debaryomycetaceae
 Decachaeta
 decandolleEssaiProprietesMedicales
@@ -991,6 +994,8 @@ Dittrichia
 DM
 Dmitry
 DMSO
+DNN
+DNNs
 DNP
 Dockerized
 dodecyl
@@ -1544,6 +1549,7 @@ idf
 IDSM
 Ifalukellidae
 Ifloga
+IIN
 IK
 Ilex
 iNaturalist
@@ -2014,6 +2020,7 @@ Mugilidae
 Mulgedium
 multidrug
 multiglandulosa
+multimers
 MUMCCPUVOAUBAN
 Munnozia
 Muntingiaceae
@@ -2052,6 +2059,7 @@ Myxillidae
 Myxococcaceae
 Myxotrichaceae
 MZMine
+mzML
 mzXML
 Nabalus
 Nagai
@@ -2202,6 +2210,7 @@ Ophiuridae
 Ophryosporus
 OPSIN
 Orbiliaceae
+Orbitrap
 Orbivestus
 Orchidaceae
 orcid
@@ -2678,6 +2687,7 @@ Repetobasidiaceae
 reproducibility
 Repurposing
 reranking
+resampling
 rescaled
 Resedaceae
 reserpin
@@ -3004,6 +3014,8 @@ Styelidae
 Stylotrichium
 Stypocaulaceae
 Styracaceae
+subchapter
+subchapters
 subdirectory
 Subergorgiidae
 suberin
