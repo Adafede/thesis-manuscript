@@ -23,7 +23,7 @@ BUILD_HTML="${BUILD_HTML:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 BUILD_EPUB="${BUILD_EPUB:-false}"
 BUILD_ODT="${BUILD_ODT:-false}"
-SPELLCHECK="${SPELLCHECK:-true}"
+SPELLCHECK="${SPELLCHECK:-false}"
 MANUBOT_USE_DOCKER="${MANUBOT_USE_DOCKER:-$DOCKER_RUNNING}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
