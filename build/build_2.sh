@@ -41,7 +41,7 @@ output/manuscript.md \
 --number-sections \
 --bibliography=output/references.json \
 --citeproc \
---lua-filter=build/pandoc/filters/backlinks.lua \
+--lua-filter=build/pandoc/filters/inline-citation-backlinks.lua \
 --csl=build/assets/style.csl \
 --metadata link-citations=true \
 --verbose \
