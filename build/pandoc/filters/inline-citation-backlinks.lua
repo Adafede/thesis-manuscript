@@ -44,18 +44,24 @@ end
 function Div(el)
   local citation_id = el.identifier:match("ref%-(.+)")
   if citation_id then
-    local backlinks = pandoc.Inlines{pandoc.Str("Cited on:"),pandoc.Space()}
+    local backlinks = pandoc.Inlines{pandoc.Str("(cit. on p")}
     for i,cite_id in ipairs(cites[citation_id]) do
       local marker = pandoc.Str(i)
       if FORMAT == "latex" then
-        marker = pandoc.RawInline("latex", "\\autopageref*{" .. cite_id .. "}")
+        marker = pandoc.RawInline("latex", "\\pageref*{" .. cite_id .. "}")
       end
-      if #backlinks > 2 then
+      if #backlinks > 1 then
         table.insert(backlinks, pandoc.Str(","))
         table.insert(backlinks, pandoc.Space())
       end
       table.insert(backlinks, pandoc.Link(marker, "#"..cite_id))
     end
+    if #backlinks > 2 then
+      table.insert(backlinks, 2, pandoc.Str("p. "))
+    else
+      table.insert(backlinks, 2, pandoc.Str(". "))
+    end
+    table.insert(backlinks, pandoc.Str(")"))
     append_inline(el.content, {pandoc.Space()} .. backlinks)
     return el
   end
