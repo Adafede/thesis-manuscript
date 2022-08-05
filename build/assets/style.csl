@@ -47,14 +47,17 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography second-field-align="flush">
+<!--    <bibliography second-field-align="flush">
+ -->
+  <bibliography>
     <layout>
       <text variable="citation-number" suffix=". "/>
       <group delimiter=" ">
         <group>
           <text variable="title" font-weight="bold"/>
         </group>
-        <group display="block">
+<!--         <group display="block">
+ -->    <group>
           <text macro="author"/>
         </group>
         <group delimiter=" ">
@@ -64,9 +67,12 @@
             <date-part name="month" form="numeric-leading-zeros" prefix="-"/>
             <date-part name="day" form="numeric-leading-zeros" prefix="-"/>
           </date>
+        </group>
+        <group delimiter=" ">
           <text variable="URL"/>
         </group>
-        <group display="block" delimiter=" · ">
+        <!-- <group display="block" delimiter=" · ">
+ -->    <group delimiter=" · ">
           <text variable="DOI" text-case="lowercase" prefix="DOI: "/>
           <text variable="PMID" prefix="PMID: "/>
           <text variable="PMCID" prefix="PMCID: "/>
