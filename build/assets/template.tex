@@ -250,7 +250,7 @@ $endfor$
     \edef\@alltocdepth{\the\value{tocdepth}}% save tocdepth
     \setcounter{tocdepth}{-10000}% no ToC entries
     \renewcommand*{\contentsname}{% change ToC name
-      Appendices}% "Appendices" INSTEAD OF "Verzeichnis der Anh\"ange"
+      Appendices}% "Appendices"
     \renewcommand*{\appendixattoc}{% macro for separation of ToC contents
       \setcounter{tocdepth}{\@alltocdepth}% restore tocdepth
     }%
