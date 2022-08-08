@@ -2418,6 +2418,7 @@ photoactive
 photoactivity
 photobiological
 photocytotoxicity
+photodiode
 photodynamic
 photopharmaceutical
 photopharmaceuticals
@@ -3238,6 +3239,7 @@ transformative
 Trapeliaceae
 Traversia
 treeio
+treemap
 Treemaps
 Trematosphaeriaceae
 Tremellaceae
