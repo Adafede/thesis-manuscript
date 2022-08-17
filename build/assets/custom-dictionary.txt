@@ -53,6 +53,7 @@ Acytosteliaceae
 adafede
 ADAP
 adduct
+adducted
 adducts
 Adelanthaceae
 Adenocaulon
@@ -1590,6 +1591,7 @@ Ifloga
 IIN
 IK
 Ilex
+impactful
 iNaturalist
 InChI
 InChIKey
@@ -2710,7 +2712,10 @@ QELDJEKNFOQJOY
 QEOWCPFWLCIQSL
 QGNLUOSBJAGYFF
 QID
+quadrupole
 Quambalariaceae
+Quassin
+quassin
 quassinoid
 quassinoids
 Quechualia
@@ -2755,6 +2760,7 @@ repartition
 Repetobasidiaceae
 reproducibility
 Repurposing
+reranked
 reranking
 resampled
 resampling
