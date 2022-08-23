@@ -4,6 +4,7 @@
 from: markdown
 input-file: output/manuscript.md
 filters:
+  - pandoc-xnos
   - pandoc-fignos
   - pandoc-eqnos
   - pandoc-tablenos
