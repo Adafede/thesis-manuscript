@@ -125,7 +125,7 @@ $endif$
               hypertexnames=false]{hyperref}
 \fi
 \hypersetup{breaklinks=true,
-            bookmarks=true,
+            % bookmarks=true,
             linktocpage=true,
             pdfauthor={$author-meta$},
             pdftitle={$title-meta$},
@@ -213,6 +213,7 @@ $endfor$
 \usepackage{musixtex}
 
 \usepackage{xpatch}
+\usepackage{transparent}
 % Just in case we're not using hyperref
 \providecommand{\phantomsection}{}
 
@@ -277,12 +278,14 @@ $endfor$
 \setmainfont{Arial}
 \pagestyle{fancy}
 \fancypagestyle{firstpage}{%
+  \addtolength{\topmargin}{29.63716pt}
   \lhead{
   UNIVERSITÉ DE GENÈVE\\
   Section des Sciences Pharmaceutiques\\
   Département de Phytochimie et produits naturels bioactifs
   }
-  \rhead{FACULTÉ DES SCIENCES\\
+  \rhead{
+  FACULTÉ DES SCIENCES\\
   Professeur Jean-Luc Wolfender\\
   }
   \fancyfoot{}%
