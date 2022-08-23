@@ -44,9 +44,8 @@ output/manuscript.md \
 --variable=fontsize:12pt \
 --variable=papersize:a4paper \
 --variable=documentclass:report \
-
 --verbose \
-2>pandoc.pdf.log
+2>output/pandoc.pdf.log
 rm -rf ./images
 
 echo >&2 "Build complete"
