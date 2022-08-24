@@ -1524,6 +1524,7 @@ HMPDRI
 hoc
 Hoehnephytum
 Hofmeisteria
+holobiont
 Holocarpha
 Hololepis
 Holopodidae
@@ -2009,6 +2010,7 @@ mgf
 mibig
 Microascaceae
 Microbacteriaceae
+microbiome
 Microbotryaceae
 Microcionidae
 Micrococcaceae
@@ -2206,6 +2208,7 @@ NRCS
 Ntie
 nubbe
 nucifera
+nucleotides
 Nutraceuticals
 NUTRIM
 Nwodo
@@ -2646,6 +2649,8 @@ Propionibacteriaceae
 Prorocentraceae
 Proteaceae
 ProteinBoxBot
+proteome
+proteomics
 Proteopsis
 ProteoWizard
 protonated
@@ -3307,6 +3312,8 @@ Tracheophyta
 Trachycladidae
 Tradall
 Tragopogon
+transcriptome
+transcriptomics
 transdisciplinary
 transformational
 transformative
