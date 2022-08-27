@@ -47,8 +47,6 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-<!--    <bibliography second-field-align="flush">
- -->
   <bibliography>
     <layout>
       <text variable="citation-number" suffix=". "/>
@@ -56,8 +54,7 @@
         <group>
           <text variable="title" font-weight="bold"/>
         </group>
-<!--         <group display="block">
- -->    <group>
+        <group>
           <text macro="author"/>
         </group>
         <group delimiter=" ">
@@ -69,10 +66,22 @@
           </date>
         </group>
         <group delimiter=" ">
-          <text variable="URL"/>
-        </group>
-        <!-- <group display="block" delimiter=" · ">
- -->    <group delimiter=" · ">
+          <choose>
+            <if match="any" type="book report webpage">
+              <text variable="URL"/>
+              <choose>
+                <if match="any" type="webpage">
+                  <date variable="accessed">
+                    <date-part prefix="Accessed " name="year"/>
+                    <date-part name="month" form="numeric-leading-zeros" prefix="-"/>
+                     <date-part name="day" form="numeric-leading-zeros" prefix="-"/>
+                   </date>
+                   </if>
+                 </choose>
+             </if>
+           </choose>
+         </group>
+         <group delimiter=" · ">
           <text variable="DOI" text-case="lowercase" prefix="DOI: "/>
           <text variable="PMID" prefix="PMID: "/>
           <text variable="PMCID" prefix="PMCID: "/>
