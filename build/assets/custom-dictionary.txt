@@ -121,6 +121,7 @@ amabilis
 Amanitaceae
 Amaranthaceae
 amarogentin
+amaroswerin
 Amaryllidaceae
 Amauria
 Ambassa
@@ -571,6 +572,7 @@ Celastraceae
 Cellulomonadaceae
 Celmisia
 Centaurea
+Centaurium
 Centaurothamnus
 Centipeda
 Centratherum
@@ -925,6 +927,8 @@ Decachaeta
 decandolleEssaiProprietesMedicales
 Decaneuropsis
 decantation
+Decentapicrin
+decentapicrin
 decoction
 deconvolute
 deconvoluted
@@ -1302,6 +1306,7 @@ geno
 Gentiana
 Gentianaceae
 Gentianales
+Gentianella
 Gentiopicroside
 gentiopicroside
 Geobacteraceae
@@ -2180,6 +2185,7 @@ Niedenzuella
 Niessliaceae
 Niphatidae
 nisidai
+nitida
 Nitrariaceae
 Nitrosomonadaceae
 NL
