@@ -124,15 +124,16 @@ $endif$
               pagebackref=true,
               hypertexnames=false]{hyperref}
 \fi
+\usepackage[dvipsnames]{xcolor}
 \hypersetup{breaklinks=true,
             % bookmarks=true,
             linktocpage=true,
             pdfauthor={$author-meta$},
             pdftitle={$title-meta$},
             colorlinks=true,
-            citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+            citecolor=$if(citecolor)$$citecolor$$else$RoyalBlue$endif$,
+            urlcolor=$if(urlcolor)$$urlcolor$$else$RoyalBlue$endif$,
+            linkcolor=$if(linkcolor)$$linkcolor$$else$PineGreen$endif$,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 $if(links-as-notes)$
