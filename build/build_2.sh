@@ -32,8 +32,8 @@ output/manuscript.md \
 --filter=pandoc-secnos \
 --filter=pandoc-manubot-cite \
 --citeproc \
---lua-filter=build/pandoc/filters/short-captions.lua \
 --lua-filter=build/pandoc/filters/inline-citation-backlinks.lua \
+--lua-filter=build/pandoc/filters/short-captions.lua \
 --pdf-engine=xelatex \
 --metadata link-citations=true \
 --number-sections \
