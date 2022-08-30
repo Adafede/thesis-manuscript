@@ -266,7 +266,8 @@ $endfor$
 \g@addto@macro\appendix{% augment \appendix
 %  \if@openright\cleardoublepage\else\clearpage\fi% new page; DELETED
   \clearpage% new page; ADDED
-  % \addcontentsline{toc}{section}{\appendixname}% entry into main ToC;
+  \renewcommand\appendixname{Appendices}
+  \addcontentsline{toc}{chapter}{\appendixname}% entry into main ToC;
 %     "section" INSTEAD OF "chapter"
   \addtocontents{toc}{\protect\appendixattoc}% macro for separation into ToC file
   % \renewcommand*{\thesection}{Appendix~\Alph{section}}% ADDED
