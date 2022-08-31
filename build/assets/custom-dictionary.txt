@@ -1213,6 +1213,7 @@ evybactin
 EW
 Exactive
 Exobasidiaceae
+exposome
 Fabaceae
 Facelinidae
 Faerun
@@ -1675,6 +1676,7 @@ Isodictyidae
 Isol
 isomerization
 isoquercitrin
+isotopologues
 ISPSO
 Iteaceae
 iteratively
@@ -2119,6 +2121,7 @@ MVLS
 Mycalidae
 Mycenaceae
 Mycobacteriaceae
+Mycobacterium
 Mycoplasmataceae
 Mycosphaerellaceae
 Mycotyphaceae
@@ -2500,6 +2503,7 @@ photosensitizer
 Photosensitizers
 photoyield
 Phrymaceae
+phthalates
 Phycomycetaceae
 Phyllachoraceae
 Phyllanthaceae
@@ -3561,6 +3565,7 @@ Xanthopappus
 xanthophyllus
 Xcalibur
 Xeniidae
+xenobiotic
 Xenophyllum
 Xenorhabdus
 Xeranthemum
