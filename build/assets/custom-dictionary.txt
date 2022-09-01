@@ -993,6 +993,7 @@ Diazonidae
 Dichapetalaceae
 dichloromethane
 Dichrocephala
+dichroism
 Dicksoniaceae
 Dicoma
 Dicoria
@@ -2040,6 +2041,7 @@ Microbotryaceae
 Microcionidae
 Micrococcaceae
 Microcotylidae
+microcrystal
 Microglossa
 Microliabum
 micromolar
@@ -2161,6 +2163,7 @@ NameBank
 Nannocystaceae
 Nannoglottis
 Nanodeaceae
+nanogram
 Nanothamnus
 nanpdb
 Napoli
@@ -3139,6 +3142,7 @@ Stereaceae
 Stereocaulaceae
 Stereochemistry
 stereoisomer
+stereoisomerism
 stereoisomers
 stevenii
 Stevia
