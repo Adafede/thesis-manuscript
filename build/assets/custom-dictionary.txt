@@ -749,6 +749,7 @@ Coespeletia
 Coffea
 Colchicaceae
 Coleostephus
+coli
 Collemataceae
 Colletotrichum
 Colubridae
@@ -1065,6 +1066,7 @@ Dotidae
 Dounoue
 DrDuke
 Droseraceae
+Drosophila
 Drosophilidae
 Drosophyllaceae
 Dryopteridaceae
@@ -1680,6 +1682,7 @@ Isodictyidae
 Isol
 isomerization
 isoquercitrin
+isotopically
 isotopologues
 ISPSO
 Iteaceae
@@ -1981,6 +1984,7 @@ Medema
 Megasporaceae
 Melampodium
 Melanconidaceae
+melanogaster
 Melanommataceae
 Melanopsaceae
 Melanoseris
