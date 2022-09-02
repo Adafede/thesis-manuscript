@@ -2720,6 +2720,7 @@ Pseudomonadaceae
 Pseudomuriellaceae
 Pseudonocardiaceae
 Pseudophasmatidae
+pseudospectrum
 Pseudostifftia
 Pseudothelphusidae
 Pseudovalsaceae
@@ -2813,6 +2814,7 @@ RDFFrames
 RDKit
 rdmpage
 readxl
+recalibration
 Reduviidae
 Reichardia
 Reionization
