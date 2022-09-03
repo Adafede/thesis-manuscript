@@ -20,7 +20,7 @@ if [ -d output/images ]; then rm -rf output/images; fi  # if images is a directo
 cp -R -L content/images ./
 pandoc \
 output/manuscript.md \
---output=output/thesis.pdf \
+--output=output/manuscript.pdf \
 --template=build/assets/template.tex \
 --include-in-header=build/assets/preamble.tex \
 --bibliography=output/references.json \
