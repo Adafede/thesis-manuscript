@@ -45,7 +45,7 @@ BUILD_DOCX=true SPELLCHECK=true bash build/build.sh
 # At this point, the HTML output will have been created. The remaining
 # commands are for the PDF manuscript locally.
 bash build/build_2.sh
-
+```
 
 ## License
 
