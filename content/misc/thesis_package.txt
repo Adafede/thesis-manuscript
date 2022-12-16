@@ -1,0 +1,45 @@
+rcrossref: Client for Various ’CrossRef’ ’APIs’ Scott Chamberlain, Hao Zhu, Najko Jahn, Carl Boettiger, Karthik Ram (2020) https://CRAN.R-project.org/package=rcrossref
+
+chorddiag: Interactive Chord Diagrams Matthias Flor (2020) http://github.com/mattflo r/chorddiag/ 
+
+data.table: Extension of ‘data.frame‘ Matt Dowle, Arun Srinivasan (2020) https://CRAN .R-project.org/package=data.table
+
+DBI: R database interface R Special Interest Group on Databases (R-SIG-DB), Hadley Wickham, Kirill Müller (2021) https://CRAN.R-project.org/package=DBI
+
+gdata: Various r programming tools for data manipulation Gregory R Warnes, Ben Bolker, Gregor Gorjanc, Gabor Grothendieck, Ales Korosec, Thomas Lumley, Don MacQueen, Arni Magnusson, Jim Rogersothers (2017) https://CRAN.R-project.org/package=gdata
+
+ggfittext: Fit Text Inside a Box in ’ggplot2’ David Wilkins (2020) https://CRAN.R-proje ct.org/package=ggfittext
+
+ggnewscale: Multiple fill and colour scales in ’ggplot2’ Elio Campitelli (2021) https: //CRAN.R-project.org/package=ggnewscale
+
+ggraph: An Implementation of Grammar of Graphics for Graphs and Networks Thomas Lin Pedersen (2020) https://CRAN.R-project.org/package=ggraph
+
+ggstar: Star Layer for ’ggplot2’ Shuangbin Xu (2021) https://CRAN.R-project.org/pac kage=ggstar
+
+https://www.wikidata.org/wiki/Q106204620
+
+pbmcapply: Tracking the Progress of Mc*pply with Progress Bar Kevin Kuang, Quyu Kong, Francesco Napolitano (2019) https://CRAN.R-project.org/package=pbmcapply
+
+readxl: Read Excel Files Hadley Wickham, Jennifer Bryan (2019) https://CRAN.R-proje ct.org/package=readxl
+
+rvest: Easily Harvest (Scrape) Web Pages Hadley Wickham (2020) https://CRAN.R-pro ject.org/package=rvest
+
+splitstackshape: Stack and Reshape Datasets After Splitting Concatenated Values Ananda Mahto (2019) https://CRAN.R-project.org/package=splitstackshape
+
+RSQLite: ’SQLite’ interface for r Kirill Müller, Hadley Wickham, David A James, Seth Falcon (2021) https://CRAN.R-project.org/package=RSQLite
+
+R package stringi: Character string processing facilities Marek Gagolewski (2020) http: //www.gagolewski.com/software/stringi/
+
+UpSetR: A More Scalable Alternative to Venn and Euler Diagrams for Visualizing In- tersecting Sets Nils Gehlenborg (2019) https://CRAN.R-project.org/package=UpSetR
+
+XML: Tools for Parsing and Generating XML Within R and S-Plus Duncan Temple Lang (2020) https://CRAN.R-project.org/package=XML
+
+xml2: Parse XML Hadley Wickham, Jim Hester, Jeroen Ooms (2020) https://CRAN.R-p roject.org/package=xml2
+
+RDKit: Open-source cheminformatics (2021) http://www.rdkit.org
+
+R https://www.wikidata.org/wiki/Q206904
+
+pracma: Practical numerical math functions Borchers Hans W. (2022) https://CRAN.R
+-project.org/package=pracma
+
