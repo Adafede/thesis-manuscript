@@ -40,6 +40,8 @@ on:
         type: boolean
         description: Use Docker to generate PDF
         default: true
+permissions:
+  contents: read
 jobs:
   manubot:
     name: Manubot
